@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "18/11/2026 11:16",
+ "atualizado_em": "18/11/2026 20:25",
  "fonte": "Opta (Stats Perform)",
  "artilheiros": [
   {
@@ -76,33 +76,33 @@
    "gols": 10
   },
   {
-   "posicao": 13,
+   "posicao": 8,
+   "jogador": "Jája Silva",
+   "time": "Remo",
+   "gols": 10
+  },
+  {
+   "posicao": 14,
    "jogador": "John Kennedy",
    "time": "Fluminense",
    "gols": 9
   },
   {
-   "posicao": 13,
+   "posicao": 14,
    "jogador": "Matheus Pereira",
    "time": "Cruzeiro",
    "gols": 9
   },
   {
-   "posicao": 13,
+   "posicao": 14,
    "jogador": "Luciano",
    "time": "São Paulo",
    "gols": 9
   },
   {
-   "posicao": 13,
+   "posicao": 14,
    "jogador": "Pedro Rocha",
    "time": "Coritiba",
-   "gols": 9
-  },
-  {
-   "posicao": 13,
-   "jogador": "Jája Silva",
-   "time": "Remo",
    "gols": 9
   },
   {

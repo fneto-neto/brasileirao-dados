@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "18/11/2026 11:16",
+ "atualizado_em": "18/11/2026 20:25",
  "fonte": "Opta (Stats Perform)",
  "rodada_atual": 35,
  "jogos_disputados": 341,
@@ -44,8 +44,8 @@
  "zona_sul_americana": [
   "Bahia",
   "Atlético MG",
-  "Bragantino",
   "Santos",
+  "Bragantino",
   "São Paulo",
   "Vasco"
  ],
@@ -55,7 +55,24 @@
   "Remo",
   "Chapecoense"
  ],
- "ao_vivo": [],
+ "ao_vivo": [
+  {
+   "data": "18/11/2026 19:30",
+   "rodada": 35,
+   "mandante": "Coritiba",
+   "visitante": "Santos",
+   "situacao": "ao vivo",
+   "placar": "0 x 0"
+  },
+  {
+   "data": "18/11/2026 20:00",
+   "rodada": 35,
+   "mandante": "Remo",
+   "visitante": "Chapecoense",
+   "situacao": "ao vivo",
+   "placar": "2 x 0"
+  }
+ ],
  "proxima_rodada": {
   "rodada": 35,
   "jogos": [
@@ -64,14 +81,16 @@
     "rodada": 35,
     "mandante": "Coritiba",
     "visitante": "Santos",
-    "situacao": "a disputar"
+    "situacao": "ao vivo",
+    "placar": "0 x 0"
    },
    {
     "data": "18/11/2026 20:00",
     "rodada": 35,
     "mandante": "Remo",
     "visitante": "Chapecoense",
-    "situacao": "a disputar"
+    "situacao": "ao vivo",
+    "placar": "2 x 0"
    },
    {
     "data": "18/11/2026 20:30",
@@ -124,5 +143,5 @@
    }
   ]
  },
- "_impressao": "dd694adf1a4e241e"
+ "_impressao": "4f0db8acffa79194"
 }

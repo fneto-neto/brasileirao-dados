@@ -1,19 +1,19 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "18/11/2026 11:16",
+ "atualizado_em": "18/11/2026 20:25",
  "fonte": "Opta (Stats Perform)",
  "posicao": 19,
  "time": "Remo",
  "sigla": "REM",
- "pontos": 29,
- "jogos": 34,
- "vitorias": 6,
+ "pontos": 32,
+ "jogos": 35,
+ "vitorias": 7,
  "empates": 11,
  "derrotas": 17,
- "gols_pro": 37,
+ "gols_pro": 39,
  "gols_contra": 57,
- "saldo": -20,
- "aproveitamento": 28,
+ "saldo": -18,
+ "aproveitamento": 30,
  "zona": "Rebaixamento",
  "proximos_jogos": [
   {
@@ -21,7 +21,8 @@
    "rodada": 35,
    "mandante": "Remo",
    "visitante": "Chapecoense",
-   "situacao": "a disputar",
+   "situacao": "ao vivo",
+   "placar": "2 x 0",
    "mando": "casa",
    "adversario": "Chapecoense"
   },
@@ -113,7 +114,7 @@
  "artilheiros_do_time": [
   {
    "jogador": "Jája Silva",
-   "gols": 9
+   "gols": 10
   },
   {
    "jogador": "Alef Manga",
