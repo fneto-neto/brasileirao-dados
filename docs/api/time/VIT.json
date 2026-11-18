@@ -1,0 +1,135 @@
+{
+ "campeonato": "Brasileirão Série A 2026",
+ "atualizado_em": "18/11/2026 11:16",
+ "fonte": "Opta (Stats Perform)",
+ "posicao": 15,
+ "time": "Vitória",
+ "sigla": "VIT",
+ "pontos": 38,
+ "jogos": 34,
+ "vitorias": 10,
+ "empates": 8,
+ "derrotas": 16,
+ "gols_pro": 35,
+ "gols_contra": 51,
+ "saldo": -16,
+ "aproveitamento": 37,
+ "zona": "Meio da tabela",
+ "proximos_jogos": [
+  {
+   "data": "19/11/2026 19:30",
+   "rodada": 35,
+   "mandante": "Vitória",
+   "visitante": "Bragantino",
+   "situacao": "a disputar",
+   "mando": "casa",
+   "adversario": "Bragantino"
+  },
+  {
+   "data": "23/11/2026 19:30",
+   "rodada": 36,
+   "mandante": "Internacional",
+   "visitante": "Vitória",
+   "situacao": "a disputar",
+   "mando": "fora",
+   "adversario": "Internacional"
+  },
+  {
+   "data": "29/11/2026 16:00",
+   "rodada": 37,
+   "mandante": "Vitória",
+   "visitante": "Santos",
+   "situacao": "a disputar",
+   "mando": "casa",
+   "adversario": "Santos"
+  },
+  {
+   "data": "02/12/2026 21:30",
+   "rodada": 38,
+   "mandante": "Vasco",
+   "visitante": "Vitória",
+   "situacao": "a disputar",
+   "mando": "fora",
+   "adversario": "Vasco"
+  }
+ ],
+ "ultimos_jogos": [
+  {
+   "data": "06/11/2026 20:00",
+   "rodada": 34,
+   "mandante": "Vitória",
+   "visitante": "Fluminense",
+   "situacao": "encerrado",
+   "placar": "0 x 3",
+   "mando": "casa",
+   "adversario": "Fluminense",
+   "resultado": "derrota"
+  },
+  {
+   "data": "31/10/2026 16:00",
+   "rodada": 33,
+   "mandante": "Coritiba",
+   "visitante": "Vitória",
+   "situacao": "encerrado",
+   "placar": "2 x 0",
+   "mando": "fora",
+   "adversario": "Coritiba",
+   "resultado": "derrota"
+  },
+  {
+   "data": "24/10/2026 16:30",
+   "rodada": 32,
+   "mandante": "Vitória",
+   "visitante": "Athletico PR",
+   "situacao": "encerrado",
+   "placar": "1 x 1",
+   "mando": "casa",
+   "adversario": "Athletico PR",
+   "resultado": "empate"
+  },
+  {
+   "data": "19/10/2026 20:00",
+   "rodada": 31,
+   "mandante": "Corinthians",
+   "visitante": "Vitória",
+   "situacao": "encerrado",
+   "placar": "1 x 1",
+   "mando": "fora",
+   "adversario": "Corinthians",
+   "resultado": "empate"
+  },
+  {
+   "data": "10/10/2026 21:00",
+   "rodada": 30,
+   "mandante": "São Paulo",
+   "visitante": "Vitória",
+   "situacao": "encerrado",
+   "placar": "2 x 1",
+   "mando": "fora",
+   "adversario": "São Paulo",
+   "resultado": "derrota"
+  }
+ ],
+ "artilheiros_do_time": [
+  {
+   "jogador": "Renê",
+   "gols": 10
+  },
+  {
+   "jogador": "Erick",
+   "gols": 5
+  },
+  {
+   "jogador": "Renato Kayzer",
+   "gols": 5
+  },
+  {
+   "jogador": "Matheuzinho",
+   "gols": 5
+  },
+  {
+   "jogador": "Gabriel Baralhas",
+   "gols": 2
+  }
+ ]
+}

@@ -1,0 +1,369 @@
+{
+ "campeonato": "Brasileirão Série A 2026",
+ "atualizado_em": "18/11/2026 11:16",
+ "fonte": "Opta (Stats Perform)",
+ "artilheiros": [
+  {
+   "posicao": 1,
+   "jogador": "K. Viveros",
+   "time": "Athletico PR",
+   "gols": 21
+  },
+  {
+   "posicao": 2,
+   "jogador": "Pedro",
+   "time": "Flamengo",
+   "gols": 20
+  },
+  {
+   "posicao": 3,
+   "jogador": "Gabriel Barbosa",
+   "time": "Santos",
+   "gols": 15
+  },
+  {
+   "posicao": 4,
+   "jogador": "Kaio Jorge",
+   "time": "Cruzeiro",
+   "gols": 14
+  },
+  {
+   "posicao": 5,
+   "jogador": "Samuel Lino",
+   "time": "Flamengo",
+   "gols": 12
+  },
+  {
+   "posicao": 6,
+   "jogador": "Carlos Vinícius",
+   "time": "Grêmio",
+   "gols": 11
+  },
+  {
+   "posicao": 6,
+   "jogador": "Luciano Juba",
+   "time": "Bahia",
+   "gols": 11
+  },
+  {
+   "posicao": 8,
+   "jogador": "J. Calleri",
+   "time": "São Paulo",
+   "gols": 10
+  },
+  {
+   "posicao": 8,
+   "jogador": "Renê",
+   "time": "Vitória",
+   "gols": 10
+  },
+  {
+   "posicao": 8,
+   "jogador": "Danilo Santos",
+   "time": "Botafogo",
+   "gols": 10
+  },
+  {
+   "posicao": 8,
+   "jogador": "J. López",
+   "time": "Palmeiras",
+   "gols": 10
+  },
+  {
+   "posicao": 8,
+   "jogador": "Mauricio",
+   "time": "Palmeiras",
+   "gols": 10
+  },
+  {
+   "posicao": 13,
+   "jogador": "John Kennedy",
+   "time": "Fluminense",
+   "gols": 9
+  },
+  {
+   "posicao": 13,
+   "jogador": "Matheus Pereira",
+   "time": "Cruzeiro",
+   "gols": 9
+  },
+  {
+   "posicao": 13,
+   "jogador": "Luciano",
+   "time": "São Paulo",
+   "gols": 9
+  },
+  {
+   "posicao": 13,
+   "jogador": "Pedro Rocha",
+   "time": "Coritiba",
+   "gols": 9
+  },
+  {
+   "posicao": 13,
+   "jogador": "Jája Silva",
+   "time": "Remo",
+   "gols": 9
+  },
+  {
+   "posicao": 18,
+   "jogador": "Neymar",
+   "time": "Santos",
+   "gols": 8
+  },
+  {
+   "posicao": 18,
+   "jogador": "Breno Lopes",
+   "time": "Coritiba",
+   "gols": 8
+  },
+  {
+   "posicao": 20,
+   "jogador": "Lucas Barbosa",
+   "time": "Bragantino",
+   "gols": 7
+  },
+  {
+   "posicao": 20,
+   "jogador": "J. Carbonero",
+   "time": "Internacional",
+   "gols": 7
+  },
+  {
+   "posicao": 20,
+   "jogador": "J. Carrascal",
+   "time": "Flamengo",
+   "gols": 7
+  },
+  {
+   "posicao": 20,
+   "jogador": "Eduardo",
+   "time": "Mirassol",
+   "gols": 7
+  },
+  {
+   "posicao": 20,
+   "jogador": "Arthur Cabral",
+   "time": "Botafogo",
+   "gols": 7
+  },
+  {
+   "posicao": 20,
+   "jogador": "J. Savarino",
+   "time": "Fluminense",
+   "gols": 7
+  },
+  {
+   "posicao": 20,
+   "jogador": "Lucas Paquetá",
+   "time": "Flamengo",
+   "gols": 7
+  },
+  {
+   "posicao": 27,
+   "jogador": "L. Acosta",
+   "time": "Fluminense",
+   "gols": 6
+  },
+  {
+   "posicao": 27,
+   "jogador": "J. Arias",
+   "time": "Palmeiras",
+   "gols": 6
+  },
+  {
+   "posicao": 27,
+   "jogador": "A. Canobbio",
+   "time": "Fluminense",
+   "gols": 6
+  },
+  {
+   "posicao": 27,
+   "jogador": "R. Castillo",
+   "time": "Fluminense",
+   "gols": 6
+  }
+ ],
+ "assistencias": [
+  {
+   "posicao": 1,
+   "jogador": "Josué",
+   "time": "Coritiba",
+   "assistencias": 11
+  },
+  {
+   "posicao": 2,
+   "jogador": "Andreas Pereira",
+   "time": "Palmeiras",
+   "assistencias": 10
+  },
+  {
+   "posicao": 3,
+   "jogador": "J. Carrascal",
+   "time": "Flamengo",
+   "assistencias": 9
+  },
+  {
+   "posicao": 3,
+   "jogador": "Samuel Lino",
+   "time": "Flamengo",
+   "assistencias": 9
+  },
+  {
+   "posicao": 5,
+   "jogador": "K. Arroyo",
+   "time": "Cruzeiro",
+   "assistencias": 7
+  },
+  {
+   "posicao": 5,
+   "jogador": "Matheus Pereira",
+   "time": "Cruzeiro",
+   "assistencias": 7
+  },
+  {
+   "posicao": 5,
+   "jogador": "R. Garro",
+   "time": "Corinthians",
+   "assistencias": 7
+  },
+  {
+   "posicao": 5,
+   "jogador": "J. López",
+   "time": "Palmeiras",
+   "assistencias": 7
+  },
+  {
+   "posicao": 5,
+   "jogador": "Giovanni Augusto",
+   "time": "Chapecoense",
+   "assistencias": 7
+  },
+  {
+   "posicao": 10,
+   "jogador": "Pedro",
+   "time": "Flamengo",
+   "assistencias": 6
+  },
+  {
+   "posicao": 10,
+   "jogador": "Erick",
+   "time": "Vitória",
+   "assistencias": 6
+  },
+  {
+   "posicao": 10,
+   "jogador": "G. Varela",
+   "time": "Flamengo",
+   "assistencias": 6
+  },
+  {
+   "posicao": 13,
+   "jogador": "L. Acosta",
+   "time": "Fluminense",
+   "assistencias": 5
+  },
+  {
+   "posicao": 13,
+   "jogador": "Alerrandro",
+   "time": "Internacional",
+   "assistencias": 5
+  },
+  {
+   "posicao": 13,
+   "jogador": "G. Benavídez",
+   "time": "Athletico PR",
+   "assistencias": 5
+  },
+  {
+   "posicao": 13,
+   "jogador": "Rodrigo Nestor",
+   "time": "Bahia",
+   "assistencias": 5
+  },
+  {
+   "posicao": 13,
+   "jogador": "Alesson",
+   "time": "Mirassol",
+   "assistencias": 5
+  },
+  {
+   "posicao": 13,
+   "jogador": "L. Esquivel",
+   "time": "Athletico PR",
+   "assistencias": 5
+  },
+  {
+   "posicao": 13,
+   "jogador": "João Cruz",
+   "time": "Athletico PR",
+   "assistencias": 5
+  },
+  {
+   "posicao": 13,
+   "jogador": "Á. Montoro",
+   "time": "Botafogo",
+   "assistencias": 5
+  },
+  {
+   "posicao": 13,
+   "jogador": "H. Mosquera",
+   "time": "Bragantino",
+   "assistencias": 5
+  },
+  {
+   "posicao": 13,
+   "jogador": "Igor Formiga",
+   "time": "Mirassol",
+   "assistencias": 5
+  },
+  {
+   "posicao": 13,
+   "jogador": "J. Rodríguez",
+   "time": "Vasco",
+   "assistencias": 5
+  },
+  {
+   "posicao": 24,
+   "jogador": "F. Amuzu",
+   "time": "Grêmio",
+   "assistencias": 4
+  },
+  {
+   "posicao": 24,
+   "jogador": "J. Arias",
+   "time": "Palmeiras",
+   "assistencias": 4
+  },
+  {
+   "posicao": 24,
+   "jogador": "Gabriel Barbosa",
+   "time": "Santos",
+   "assistencias": 4
+  },
+  {
+   "posicao": 24,
+   "jogador": "A. Canobbio",
+   "time": "Fluminense",
+   "assistencias": 4
+  },
+  {
+   "posicao": 24,
+   "jogador": "J. Carbonero",
+   "time": "Internacional",
+   "assistencias": 4
+  },
+  {
+   "posicao": 24,
+   "jogador": "Fágner",
+   "time": "Cruzeiro",
+   "assistencias": 4
+  },
+  {
+   "posicao": 24,
+   "jogador": "Reinaldo",
+   "time": "Mirassol",
+   "assistencias": 4
+  }
+ ]
+}

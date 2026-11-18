@@ -1,0 +1,75 @@
+openapi: 3.1.0
+info:
+  title: Brasileirão 2026 — dados do Opta
+  version: "1.0.0"
+  description: >
+    Dados públicos, só de leitura, do Brasileirão Série A 2026 (fonte: Opta / Stats Perform), atualizados
+    automaticamente a cada ~5 minutos. Respostas em português; datas no horário de Brasília (dd/mm/aaaa hh:mm).
+    O campo "atualizado_em" diz quando os dados mudaram pela última vez. Placar sempre "mandante x visitante".
+servers:
+  - url: https://SEU-USUARIO.github.io/brasileirao-dados
+    description: Troque SEU-USUARIO pelo seu nome de usuário do GitHub.
+paths:
+  /api/resumo.json:
+    get:
+      operationId: obterResumo
+      summary: Resumo do campeonato agora
+      description: Use primeiro em perguntas gerais — rodada, líder, artilheiro, melhor ataque/defesa, zonas (Libertadores, Sul-Americana, rebaixamento), jogos ao vivo e próxima rodada.
+      responses:
+        "200":
+          description: Resumo
+          content:
+            application/json:
+              schema: { type: object }
+  /api/tabela.json:
+    get:
+      operationId: obterTabela
+      summary: Classificação completa (20 times)
+      description: Posição, pontos, jogos, vitórias, empates, derrotas, gols, saldo, aproveitamento e zona de cada time.
+      responses:
+        "200":
+          description: Tabela
+          content:
+            application/json:
+              schema: { type: object }
+  /api/times.json:
+    get:
+      operationId: listarTimes
+      summary: Lista dos 20 times com a sigla
+      description: Use para descobrir a SIGLA de um time (ex.: Flamengo = FLA, São Paulo = SAO) antes de chamar obterTime.
+      responses:
+        "200":
+          description: Times
+          content:
+            application/json:
+              schema: { type: object }
+  /api/time/{sigla}.json:
+    get:
+      operationId: obterTime
+      summary: Um time — campanha, próximos jogos, últimos 5 jogos e artilheiros do time
+      parameters:
+        - name: sigla
+          in: path
+          required: true
+          description: Sigla do time em MAIÚSCULAS, como aparece em listarTimes (ex.: FLA, PAL, COR, SAO, ATL, CAP).
+          schema:
+            type: string
+            enum: [ATL, BAH, BOT, CAP, CBA, CHA, COR, CRU, FLA, FLU, GRE, INT, MIR, PAL, RBB, REM, SAN, SAO, VAS, VIT]
+      responses:
+        "200":
+          description: Time
+          content:
+            application/json:
+              schema: { type: object }
+        "404":
+          description: Sigla inexistente (veja listarTimes)
+  /api/artilheiros.json:
+    get:
+      operationId: obterArtilheiros
+      summary: Artilheiros e líderes de assistências (top 30)
+      responses:
+        "200":
+          description: Rankings
+          content:
+            application/json:
+              schema: { type: object }

@@ -1,0 +1,135 @@
+{
+ "campeonato": "Brasileirão Série A 2026",
+ "atualizado_em": "18/11/2026 11:16",
+ "fonte": "Opta (Stats Perform)",
+ "posicao": 16,
+ "time": "Internacional",
+ "sigla": "INT",
+ "pontos": 38,
+ "jogos": 34,
+ "vitorias": 9,
+ "empates": 11,
+ "derrotas": 14,
+ "gols_pro": 38,
+ "gols_contra": 42,
+ "saldo": -4,
+ "aproveitamento": 37,
+ "zona": "Meio da tabela",
+ "proximos_jogos": [
+  {
+   "data": "19/11/2026 19:30",
+   "rodada": 35,
+   "mandante": "Vasco",
+   "visitante": "Internacional",
+   "situacao": "a disputar",
+   "mando": "fora",
+   "adversario": "Vasco"
+  },
+  {
+   "data": "23/11/2026 19:30",
+   "rodada": 36,
+   "mandante": "Internacional",
+   "visitante": "Vitória",
+   "situacao": "a disputar",
+   "mando": "casa",
+   "adversario": "Vitória"
+  },
+  {
+   "data": "29/11/2026 18:30",
+   "rodada": 37,
+   "mandante": "Internacional",
+   "visitante": "Bragantino",
+   "situacao": "a disputar",
+   "mando": "casa",
+   "adversario": "Bragantino"
+  },
+  {
+   "data": "02/12/2026 21:30",
+   "rodada": 38,
+   "mandante": "Cruzeiro",
+   "visitante": "Internacional",
+   "situacao": "a disputar",
+   "mando": "fora",
+   "adversario": "Cruzeiro"
+  }
+ ],
+ "ultimos_jogos": [
+  {
+   "data": "03/11/2026 21:30",
+   "rodada": 34,
+   "mandante": "Internacional",
+   "visitante": "Coritiba",
+   "situacao": "encerrado",
+   "placar": "1 x 0",
+   "mando": "casa",
+   "adversario": "Coritiba",
+   "resultado": "vitória"
+  },
+  {
+   "data": "28/10/2026 19:30",
+   "rodada": 33,
+   "mandante": "Fluminense",
+   "visitante": "Internacional",
+   "situacao": "encerrado",
+   "placar": "2 x 1",
+   "mando": "fora",
+   "adversario": "Fluminense",
+   "resultado": "derrota"
+  },
+  {
+   "data": "24/10/2026 16:30",
+   "rodada": 32,
+   "mandante": "Internacional",
+   "visitante": "Botafogo",
+   "situacao": "encerrado",
+   "placar": "3 x 0",
+   "mando": "casa",
+   "adversario": "Botafogo",
+   "resultado": "vitória"
+  },
+  {
+   "data": "16/10/2026 20:00",
+   "rodada": 31,
+   "mandante": "Mirassol",
+   "visitante": "Internacional",
+   "situacao": "encerrado",
+   "placar": "2 x 0",
+   "mando": "fora",
+   "adversario": "Mirassol",
+   "resultado": "derrota"
+  },
+  {
+   "data": "11/10/2026 17:30",
+   "rodada": 30,
+   "mandante": "Grêmio",
+   "visitante": "Internacional",
+   "situacao": "encerrado",
+   "placar": "1 x 1",
+   "mando": "fora",
+   "adversario": "Grêmio",
+   "resultado": "empate"
+  }
+ ],
+ "artilheiros_do_time": [
+  {
+   "jogador": "J. Carbonero",
+   "gols": 7
+  },
+  {
+   "jogador": "Alan Patrick",
+   "gols": 6
+  },
+  {
+   "jogador": "A. Bernabéi",
+   "gols": 5
+  },
+  {
+   "jogador": "Alerrandro",
+   "gols": 4
+  },
+  {
+   "jogador": "Vitinho",
+   "gols": 4
+  }
+ ]
+}

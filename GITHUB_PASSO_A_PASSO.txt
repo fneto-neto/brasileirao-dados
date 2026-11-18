@@ -1,0 +1,27 @@
+GPT LENDO O OPTA PELO GITHUB (sem PC ligado, sem outra conta)
+
+ATENÇÃO: o repositório precisa ser PÚBLICO (o GitHub Pages grátis exige).
+Os DADOS (tabela, jogos, artilheiros) ficam públicos. As CHAVES do Opta NÃO:
+ficam só nos "Secrets", que ninguém consegue ver, nem você depois de salvar.
+
+1. github.com > New repository > nome: brasileirao-dados > Public > Create.
+   (o Coordenador sobe os arquivos desta pasta para ele)
+
+2. No repositório: Settings > Secrets and variables > Actions > New repository secret.
+   Crie 3, colando os valores do seu C:\TRABALHO\WEB\.env (abra no Bloco de Notas):
+     OPTA_BASE_URL
+     OPTA_OUTLET_KEY
+     OPTA_API_KEY
+
+3. Settings > Pages > Source: Deploy from a branch > Branch: main, pasta /docs > Save.
+
+4. Aba Actions > "Atualizar dados do Brasileirão" > Run workflow.
+   Em 1-2 minutos abra: https://SEU-USUARIO.github.io/brasileirao-dados/api/tabela.json
+   (depois disso atualiza sozinho a cada ~5 minutos, com o PC desligado)
+
+5. No ChatGPT: Explorar GPTs > Criar > Configurar > Criar nova ação.
+   Autenticação: Nenhuma. Esquema: cole o arquivo openapi.yaml desta pasta
+   trocando SEU-USUARIO pelo seu usuário do GitHub.
+   Política de privacidade: https://SEU-USUARIO.github.io/brasileirao-dados/privacidade.html
+
+Se a aba Actions mostrar erro (X vermelho): confira os 3 secrets. O erro nunca mostra as chaves.

@@ -1,0 +1,107 @@
+{
+ "campeonato": "Brasileirão Série A 2026",
+ "atualizado_em": "18/11/2026 11:16",
+ "fonte": "Opta (Stats Perform)",
+ "times": [
+  {
+   "time": "Athletico PR",
+   "sigla": "CAP",
+   "nome_completo": "Athletico Paranaense"
+  },
+  {
+   "time": "Atlético MG",
+   "sigla": "ATL",
+   "nome_completo": "Atlético Mineiro"
+  },
+  {
+   "time": "Bahia",
+   "sigla": "BAH",
+   "nome_completo": "Bahia"
+  },
+  {
+   "time": "Botafogo",
+   "sigla": "BOT",
+   "nome_completo": "Botafogo"
+  },
+  {
+   "time": "Bragantino",
+   "sigla": "RBB",
+   "nome_completo": "RB Bragantino"
+  },
+  {
+   "time": "Chapecoense",
+   "sigla": "CHA",
+   "nome_completo": "Chapecoense"
+  },
+  {
+   "time": "Corinthians",
+   "sigla": "COR",
+   "nome_completo": "Corinthians"
+  },
+  {
+   "time": "Coritiba",
+   "sigla": "CBA",
+   "nome_completo": "Coritiba"
+  },
+  {
+   "time": "Cruzeiro",
+   "sigla": "CRU",
+   "nome_completo": "Cruzeiro"
+  },
+  {
+   "time": "Flamengo",
+   "sigla": "FLA",
+   "nome_completo": "Flamengo"
+  },
+  {
+   "time": "Fluminense",
+   "sigla": "FLU",
+   "nome_completo": "Fluminense"
+  },
+  {
+   "time": "Grêmio",
+   "sigla": "GRE",
+   "nome_completo": "Grêmio"
+  },
+  {
+   "time": "Internacional",
+   "sigla": "INT",
+   "nome_completo": "Internacional"
+  },
+  {
+   "time": "Mirassol",
+   "sigla": "MIR",
+   "nome_completo": "Mirassol"
+  },
+  {
+   "time": "Palmeiras",
+   "sigla": "PAL",
+   "nome_completo": "Palmeiras"
+  },
+  {
+   "time": "Remo",
+   "sigla": "REM",
+   "nome_completo": "Remo"
+  },
+  {
+   "time": "Santos",
+   "sigla": "SAN",
+   "nome_completo": "Santos"
+  },
+  {
+   "time": "São Paulo",
+   "sigla": "SAO",
+   "nome_completo": "São Paulo"
+  },
+  {
+   "time": "Vasco",
+   "sigla": "VAS",
+   "nome_completo": "Vasco da Gama"
+  },
+  {
+   "time": "Vitória",
+   "sigla": "VIT",
+   "nome_completo": "Vitória"
+  }
+ ]
+}

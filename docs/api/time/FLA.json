@@ -1,0 +1,135 @@
+{
+ "campeonato": "Brasileirão Série A 2026",
+ "atualizado_em": "18/11/2026 11:16",
+ "fonte": "Opta (Stats Perform)",
+ "posicao": 1,
+ "time": "Flamengo",
+ "sigla": "FLA",
+ "pontos": 76,
+ "jogos": 34,
+ "vitorias": 23,
+ "empates": 7,
+ "derrotas": 4,
+ "gols_pro": 71,
+ "gols_contra": 29,
+ "saldo": 42,
+ "aproveitamento": 75,
+ "zona": "Libertadores",
+ "proximos_jogos": [
+  {
+   "data": "18/11/2026 20:30",
+   "rodada": 35,
+   "mandante": "Flamengo",
+   "visitante": "Athletico PR",
+   "situacao": "a disputar",
+   "mando": "casa",
+   "adversario": "Athletico PR"
+  },
+  {
+   "data": "21/11/2026 16:30",
+   "rodada": 36,
+   "mandante": "Palmeiras",
+   "visitante": "Flamengo",
+   "situacao": "a disputar",
+   "mando": "fora",
+   "adversario": "Palmeiras"
+  },
+  {
+   "data": "29/11/2026 16:00",
+   "rodada": 37,
+   "mandante": "Coritiba",
+   "visitante": "Flamengo",
+   "situacao": "a disputar",
+   "mando": "fora",
+   "adversario": "Coritiba"
+  },
+  {
+   "data": "02/12/2026 21:30",
+   "rodada": 38,
+   "mandante": "Flamengo",
+   "visitante": "Chapecoense",
+   "situacao": "a disputar",
+   "mando": "casa",
+   "adversario": "Chapecoense"
+  }
+ ],
+ "ultimos_jogos": [
+  {
+   "data": "04/11/2026 19:30",
+   "rodada": 34,
+   "mandante": "Flamengo",
+   "visitante": "Grêmio",
+   "situacao": "encerrado",
+   "placar": "3 x 1",
+   "mando": "casa",
+   "adversario": "Grêmio",
+   "resultado": "vitória"
+  },
+  {
+   "data": "29/10/2026 20:00",
+   "rodada": 33,
+   "mandante": "Vasco",
+   "visitante": "Flamengo",
+   "situacao": "encerrado",
+   "placar": "1 x 4",
+   "mando": "fora",
+   "adversario": "Vasco",
+   "resultado": "vitória"
+  },
+  {
+   "data": "26/10/2026 20:00",
+   "rodada": 32,
+   "mandante": "Flamengo",
+   "visitante": "Atlético MG",
+   "situacao": "encerrado",
+   "placar": "3 x 2",
+   "mando": "casa",
+   "adversario": "Atlético MG",
+   "resultado": "vitória"
+  },
+  {
+   "data": "18/10/2026 18:30",
+   "rodada": 31,
+   "mandante": "Bahia",
+   "visitante": "Flamengo",
+   "situacao": "encerrado",
+   "placar": "0 x 3",
+   "mando": "fora",
+   "adversario": "Bahia",
+   "resultado": "vitória"
+  },
+  {
+   "data": "11/10/2026 17:30",
+   "rodada": 30,
+   "mandante": "Flamengo",
+   "visitante": "Fluminense",
+   "situacao": "encerrado",
+   "placar": "1 x 0",
+   "mando": "casa",
+   "adversario": "Fluminense",
+   "resultado": "vitória"
+  }
+ ],
+ "artilheiros_do_time": [
+  {
+   "jogador": "Pedro",
+   "gols": 20
+  },
+  {
+   "jogador": "Samuel Lino",
+   "gols": 12
+  },
+  {
+   "jogador": "J. Carrascal",
+   "gols": 7
+  },
+  {
+   "jogador": "Lucas Paquetá",
+   "gols": 7
+  },
+  {
+   "jogador": "G. de Arrascaeta",
+   "gols": 4
+  }
+ ]
+}

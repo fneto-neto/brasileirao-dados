@@ -1,0 +1,135 @@
+{
+ "campeonato": "Brasileirão Série A 2026",
+ "atualizado_em": "18/11/2026 11:16",
+ "fonte": "Opta (Stats Perform)",
+ "posicao": 10,
+ "time": "São Paulo",
+ "sigla": "SAO",
+ "pontos": 44,
+ "jogos": 34,
+ "vitorias": 12,
+ "empates": 8,
+ "derrotas": 14,
+ "gols_pro": 39,
+ "gols_contra": 39,
+ "saldo": 0,
+ "aproveitamento": 43,
+ "zona": "Sul-Americana",
+ "proximos_jogos": [
+  {
+   "data": "19/11/2026 21:30",
+   "rodada": 35,
+   "mandante": "São Paulo",
+   "visitante": "Fluminense",
+   "situacao": "a disputar",
+   "mando": "casa",
+   "adversario": "Fluminense"
+  },
+  {
+   "data": "23/11/2026 20:00",
+   "rodada": 36,
+   "mandante": "Botafogo",
+   "visitante": "São Paulo",
+   "situacao": "a disputar",
+   "mando": "fora",
+   "adversario": "Botafogo"
+  },
+  {
+   "data": "26/11/2026 20:00",
+   "rodada": 37,
+   "mandante": "São Paulo",
+   "visitante": "Remo",
+   "situacao": "a disputar",
+   "mando": "casa",
+   "adversario": "Remo"
+  },
+  {
+   "data": "02/12/2026 21:30",
+   "rodada": 38,
+   "mandante": "Athletico PR",
+   "visitante": "São Paulo",
+   "situacao": "a disputar",
+   "mando": "fora",
+   "adversario": "Athletico PR"
+  }
+ ],
+ "ultimos_jogos": [
+  {
+   "data": "04/11/2026 21:30",
+   "rodada": 34,
+   "mandante": "São Paulo",
+   "visitante": "Corinthians",
+   "situacao": "encerrado",
+   "placar": "0 x 0",
+   "mando": "casa",
+   "adversario": "Corinthians",
+   "resultado": "empate"
+  },
+  {
+   "data": "28/10/2026 21:30",
+   "rodada": 33,
+   "mandante": "Bahia",
+   "visitante": "São Paulo",
+   "situacao": "encerrado",
+   "placar": "3 x 2",
+   "mando": "fora",
+   "adversario": "Bahia",
+   "resultado": "derrota"
+  },
+  {
+   "data": "24/10/2026 16:30",
+   "rodada": 32,
+   "mandante": "Mirassol",
+   "visitante": "São Paulo",
+   "situacao": "encerrado",
+   "placar": "1 x 1",
+   "mando": "fora",
+   "adversario": "Mirassol",
+   "resultado": "empate"
+  },
+  {
+   "data": "17/10/2026 21:00",
+   "rodada": 31,
+   "mandante": "São Paulo",
+   "visitante": "Vasco",
+   "situacao": "encerrado",
+   "placar": "1 x 0",
+   "mando": "casa",
+   "adversario": "Vasco",
+   "resultado": "vitória"
+  },
+  {
+   "data": "10/10/2026 21:00",
+   "rodada": 30,
+   "mandante": "São Paulo",
+   "visitante": "Vitória",
+   "situacao": "encerrado",
+   "placar": "2 x 1",
+   "mando": "casa",
+   "adversario": "Vitória",
+   "resultado": "vitória"
+  }
+ ],
+ "artilheiros_do_time": [
+  {
+   "jogador": "J. Calleri",
+   "gols": 10
+  },
+  {
+   "jogador": "Luciano",
+   "gols": 9
+  },
+  {
+   "jogador": "Ferreira",
+   "gols": 4
+  },
+  {
+   "jogador": "Artur",
+   "gols": 3
+  },
+  {
+   "jogador": "Lucas Moura",
+   "gols": 2
+  }
+ ]
+}
