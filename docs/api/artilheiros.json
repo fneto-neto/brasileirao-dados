@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "18/11/2026 22:30",
+ "atualizado_em": "18/11/2026 23:30",
  "fonte": "Opta (Stats Perform)",
  "artilheiros": [
   {
@@ -167,6 +167,12 @@
   },
   {
    "posicao": 27,
+   "jogador": "Kaio César",
+   "time": "Corinthians",
+   "gols": 6
+  },
+  {
+   "posicao": 27,
    "jogador": "J. Arias",
    "time": "Palmeiras",
    "gols": 6
@@ -174,12 +180,6 @@
   {
    "posicao": 27,
    "jogador": "A. Canobbio",
-   "time": "Fluminense",
-   "gols": 6
-  },
-  {
-   "posicao": 27,
-   "jogador": "R. Castillo",
    "time": "Fluminense",
    "gols": 6
   }
@@ -355,14 +355,14 @@
   },
   {
    "posicao": 24,
-   "jogador": "Fágner",
-   "time": "Cruzeiro",
+   "jogador": "Vitinho",
+   "time": "Corinthians",
    "assistencias": 4
   },
   {
    "posicao": 24,
-   "jogador": "Reinaldo",
-   "time": "Mirassol",
+   "jogador": "Fágner",
+   "time": "Cruzeiro",
    "assistencias": 4
   }
  ]
