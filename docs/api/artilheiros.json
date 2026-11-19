@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "18/11/2026 21:15",
+ "atualizado_em": "18/11/2026 22:30",
  "fonte": "Opta (Stats Perform)",
  "artilheiros": [
   {
@@ -19,7 +19,7 @@
    "posicao": 3,
    "jogador": "Gabriel Barbosa",
    "time": "Santos",
-   "gols": 15
+   "gols": 16
   },
   {
    "posicao": 4,
@@ -53,6 +53,12 @@
   },
   {
    "posicao": 8,
+   "jogador": "Matheus Pereira",
+   "time": "Cruzeiro",
+   "gols": 10
+  },
+  {
+   "posicao": 8,
    "jogador": "Renê",
    "time": "Vitória",
    "gols": 10
@@ -82,25 +88,19 @@
    "gols": 10
   },
   {
-   "posicao": 14,
+   "posicao": 15,
    "jogador": "John Kennedy",
    "time": "Fluminense",
    "gols": 9
   },
   {
-   "posicao": 14,
-   "jogador": "Matheus Pereira",
-   "time": "Cruzeiro",
-   "gols": 9
-  },
-  {
-   "posicao": 14,
+   "posicao": 15,
    "jogador": "Luciano",
    "time": "São Paulo",
    "gols": 9
   },
   {
-   "posicao": 14,
+   "posicao": 15,
    "jogador": "Pedro Rocha",
    "time": "Coritiba",
    "gols": 9

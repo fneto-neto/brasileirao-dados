@@ -1,27 +1,28 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "18/11/2026 21:15",
+ "atualizado_em": "18/11/2026 22:30",
  "fonte": "Opta (Stats Perform)",
- "posicao": 17,
+ "posicao": 15,
  "time": "Corinthians",
  "sigla": "COR",
- "pontos": 37,
- "jogos": 34,
- "vitorias": 9,
+ "pontos": 40,
+ "jogos": 35,
+ "vitorias": 10,
  "empates": 10,
  "derrotas": 15,
- "gols_pro": 36,
+ "gols_pro": 38,
  "gols_contra": 42,
- "saldo": -6,
- "aproveitamento": 36,
- "zona": "Rebaixamento",
+ "saldo": -4,
+ "aproveitamento": 38,
+ "zona": "Meio da tabela",
  "proximos_jogos": [
   {
    "data": "18/11/2026 21:30",
    "rodada": 35,
    "mandante": "Corinthians",
    "visitante": "Botafogo",
-   "situacao": "a disputar",
+   "situacao": "ao vivo",
+   "placar": "2 x 0",
    "mando": "casa",
    "adversario": "Botafogo"
   },
@@ -116,6 +117,10 @@
    "gols": 5
   },
   {
+   "jogador": "Kaio César",
+   "gols": 4
+  },
+  {
    "jogador": "Yuri Alberto",
    "gols": 4
   },
@@ -126,10 +131,6 @@
   {
    "jogador": "Gustavo Henrique",
    "gols": 4
-  },
-  {
-   "jogador": "Kaio César",
-   "gols": 3
   }
  ]
 }

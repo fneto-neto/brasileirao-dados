@@ -1,31 +1,21 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "18/11/2026 21:15",
+ "atualizado_em": "18/11/2026 22:30",
  "fonte": "Opta (Stats Perform)",
  "posicao": 8,
  "time": "Santos",
  "sigla": "SAN",
- "pontos": 48,
+ "pontos": 50,
  "jogos": 35,
- "vitorias": 12,
- "empates": 12,
+ "vitorias": 13,
+ "empates": 11,
  "derrotas": 11,
- "gols_pro": 50,
+ "gols_pro": 51,
  "gols_contra": 49,
- "saldo": 1,
- "aproveitamento": 46,
+ "saldo": 2,
+ "aproveitamento": 48,
  "zona": "Sul-Americana",
  "proximos_jogos": [
-  {
-   "data": "18/11/2026 19:30",
-   "rodada": 35,
-   "mandante": "Coritiba",
-   "visitante": "Santos",
-   "situacao": "ao vivo",
-   "placar": "0 x 0",
-   "mando": "fora",
-   "adversario": "Coritiba"
-  },
   {
    "data": "23/11/2026 21:00",
    "rodada": 36,
@@ -55,6 +45,17 @@
   }
  ],
  "ultimos_jogos": [
+  {
+   "data": "18/11/2026 19:30",
+   "rodada": 35,
+   "mandante": "Coritiba",
+   "visitante": "Santos",
+   "situacao": "encerrado",
+   "placar": "0 x 1",
+   "mando": "fora",
+   "adversario": "Coritiba",
+   "resultado": "vitória"
+  },
   {
    "data": "02/11/2026 20:00",
    "rodada": 34,
@@ -98,23 +99,12 @@
    "mando": "fora",
    "adversario": "Fluminense",
    "resultado": "vitória"
-  },
-  {
-   "data": "11/10/2026 16:00",
-   "rodada": 30,
-   "mandante": "Atlético MG",
-   "visitante": "Santos",
-   "situacao": "encerrado",
-   "placar": "2 x 1",
-   "mando": "fora",
-   "adversario": "Atlético MG",
-   "resultado": "derrota"
   }
  ],
  "artilheiros_do_time": [
   {
    "jogador": "Gabriel Barbosa",
-   "gols": 15
+   "gols": 16
   },
   {
    "jogador": "Neymar",
