@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "19/11/2026 19:56",
+ "atualizado_em": "19/11/2026 20:36",
  "fonte": "Opta (Stats Perform)",
  "rodada_atual": 35,
  "jogos_disputados": 347,
@@ -70,7 +70,7 @@
    "mandante": "Vasco",
    "visitante": "Internacional",
    "situacao": "ao vivo",
-   "placar": "0 x 0"
+   "placar": "1 x 0"
   }
  ],
  "proxima_rodada": {
@@ -90,7 +90,7 @@
     "mandante": "Vasco",
     "visitante": "Internacional",
     "situacao": "ao vivo",
-    "placar": "0 x 0"
+    "placar": "1 x 0"
    },
    {
     "data": "19/11/2026 21:30",
@@ -101,5 +101,5 @@
    }
   ]
  },
- "_impressao": "ef5049869573a8e2"
+ "_impressao": "7aadd11559ae06d7"
 }

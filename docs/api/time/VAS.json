@@ -1,19 +1,19 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "19/11/2026 19:56",
+ "atualizado_em": "19/11/2026 20:36",
  "fonte": "Opta (Stats Perform)",
  "posicao": 10,
  "time": "Vasco",
  "sigla": "VAS",
- "pontos": 45,
+ "pontos": 47,
  "jogos": 35,
- "vitorias": 12,
- "empates": 9,
+ "vitorias": 13,
+ "empates": 8,
  "derrotas": 14,
- "gols_pro": 45,
+ "gols_pro": 46,
  "gols_contra": 50,
- "saldo": -5,
- "aproveitamento": 43,
+ "saldo": -4,
+ "aproveitamento": 45,
  "zona": "Sul-Americana",
  "proximos_jogos": [
   {
@@ -22,7 +22,7 @@
    "mandante": "Vasco",
    "visitante": "Internacional",
    "situacao": "ao vivo",
-   "placar": "0 x 0",
+   "placar": "1 x 0",
    "mando": "casa",
    "adversario": "Internacional"
   },
@@ -113,11 +113,11 @@
  ],
  "artilheiros_do_time": [
   {
-   "jogador": "A. Gómez",
-   "gols": 5
+   "jogador": "Thiago Mendes",
+   "gols": 6
   },
   {
-   "jogador": "Thiago Mendes",
+   "jogador": "A. Gómez",
    "gols": 5
   },
   {
