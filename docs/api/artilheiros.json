@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "18/11/2026 20:25",
+ "atualizado_em": "18/11/2026 21:15",
  "fonte": "Opta (Stats Perform)",
  "artilheiros": [
   {
@@ -107,6 +107,12 @@
   },
   {
    "posicao": 18,
+   "jogador": "J. Carrascal",
+   "time": "Flamengo",
+   "gols": 8
+  },
+  {
+   "posicao": 18,
    "jogador": "Neymar",
    "time": "Santos",
    "gols": 8
@@ -118,43 +124,37 @@
    "gols": 8
   },
   {
-   "posicao": 20,
+   "posicao": 21,
    "jogador": "Lucas Barbosa",
    "time": "Bragantino",
    "gols": 7
   },
   {
-   "posicao": 20,
+   "posicao": 21,
    "jogador": "J. Carbonero",
    "time": "Internacional",
    "gols": 7
   },
   {
-   "posicao": 20,
-   "jogador": "J. Carrascal",
-   "time": "Flamengo",
-   "gols": 7
-  },
-  {
-   "posicao": 20,
+   "posicao": 21,
    "jogador": "Eduardo",
    "time": "Mirassol",
    "gols": 7
   },
   {
-   "posicao": 20,
+   "posicao": 21,
    "jogador": "Arthur Cabral",
    "time": "Botafogo",
    "gols": 7
   },
   {
-   "posicao": 20,
+   "posicao": 21,
    "jogador": "J. Savarino",
    "time": "Fluminense",
    "gols": 7
   },
   {
-   "posicao": 20,
+   "posicao": 21,
    "jogador": "Lucas Paquetá",
    "time": "Flamengo",
    "gols": 7
@@ -240,21 +240,21 @@
    "assistencias": 7
   },
   {
-   "posicao": 10,
+   "posicao": 5,
+   "jogador": "G. Varela",
+   "time": "Flamengo",
+   "assistencias": 7
+  },
+  {
+   "posicao": 11,
    "jogador": "Pedro",
    "time": "Flamengo",
    "assistencias": 6
   },
   {
-   "posicao": 10,
+   "posicao": 11,
    "jogador": "Erick",
    "time": "Vitória",
-   "assistencias": 6
-  },
-  {
-   "posicao": 10,
-   "jogador": "G. Varela",
-   "time": "Flamengo",
    "assistencias": 6
   },
   {

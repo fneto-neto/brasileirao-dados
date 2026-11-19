@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "18/11/2026 20:25",
+ "atualizado_em": "18/11/2026 21:15",
  "fonte": "Opta (Stats Perform)",
  "rodada_atual": 35,
  "jogos_disputados": 341,
@@ -10,14 +10,14 @@
   "posicao": 1,
   "time": "Flamengo",
   "sigla": "FLA",
-  "pontos": 76,
-  "jogos": 34,
-  "vitorias": 23,
+  "pontos": 79,
+  "jogos": 35,
+  "vitorias": 24,
   "empates": 7,
   "derrotas": 4,
-  "gols_pro": 71,
-  "gols_contra": 29,
-  "saldo": 42,
+  "gols_pro": 73,
+  "gols_contra": 30,
+  "saldo": 43,
   "aproveitamento": 75,
   "zona": "Libertadores"
  },
@@ -28,7 +28,7 @@
  },
  "melhor_ataque": {
   "time": "Flamengo",
-  "gols_pro": 71
+  "gols_pro": 73
  },
  "melhor_defesa": {
   "time": "Palmeiras",
@@ -71,6 +71,22 @@
    "visitante": "Chapecoense",
    "situacao": "ao vivo",
    "placar": "2 x 0"
+  },
+  {
+   "data": "18/11/2026 20:30",
+   "rodada": 35,
+   "mandante": "Cruzeiro",
+   "visitante": "Palmeiras",
+   "situacao": "ao vivo",
+   "placar": "0 x 0"
+  },
+  {
+   "data": "18/11/2026 20:30",
+   "rodada": 35,
+   "mandante": "Flamengo",
+   "visitante": "Athletico PR",
+   "situacao": "ao vivo",
+   "placar": "2 x 1"
   }
  ],
  "proxima_rodada": {
@@ -97,14 +113,16 @@
     "rodada": 35,
     "mandante": "Cruzeiro",
     "visitante": "Palmeiras",
-    "situacao": "a disputar"
+    "situacao": "ao vivo",
+    "placar": "0 x 0"
    },
    {
     "data": "18/11/2026 20:30",
     "rodada": 35,
     "mandante": "Flamengo",
     "visitante": "Athletico PR",
-    "situacao": "a disputar"
+    "situacao": "ao vivo",
+    "placar": "2 x 1"
    },
    {
     "data": "18/11/2026 21:30",
@@ -143,5 +161,5 @@
    }
   ]
  },
- "_impressao": "4f0db8acffa79194"
+ "_impressao": "f355439a87824b5a"
 }
