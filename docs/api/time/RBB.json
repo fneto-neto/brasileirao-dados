@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "19/11/2026 21:22",
+ "atualizado_em": "19/11/2026 22:36",
  "fonte": "Opta (Stats Perform)",
  "posicao": 9,
  "time": "Bragantino",
@@ -16,16 +16,6 @@
  "aproveitamento": 45,
  "zona": "Sul-Americana",
  "proximos_jogos": [
-  {
-   "data": "19/11/2026 19:30",
-   "rodada": 35,
-   "mandante": "Vitória",
-   "visitante": "Bragantino",
-   "situacao": "ao vivo",
-   "placar": "2 x 1",
-   "mando": "fora",
-   "adversario": "Vitória"
-  },
   {
    "data": "22/11/2026 19:30",
    "rodada": 36,
@@ -55,6 +45,17 @@
   }
  ],
  "ultimos_jogos": [
+  {
+   "data": "19/11/2026 19:30",
+   "rodada": 35,
+   "mandante": "Vitória",
+   "visitante": "Bragantino",
+   "situacao": "encerrado",
+   "placar": "2 x 1",
+   "mando": "fora",
+   "adversario": "Vitória",
+   "resultado": "derrota"
+  },
   {
    "data": "02/11/2026 20:00",
    "rodada": 34,
@@ -98,17 +99,6 @@
    "mando": "fora",
    "adversario": "Remo",
    "resultado": "empate"
-  },
-  {
-   "data": "12/10/2026 21:00",
-   "rodada": 30,
-   "mandante": "Bragantino",
-   "visitante": "Cruzeiro",
-   "situacao": "encerrado",
-   "placar": "4 x 2",
-   "mando": "casa",
-   "adversario": "Cruzeiro",
-   "resultado": "vitória"
   }
  ],
  "artilheiros_do_time": [
