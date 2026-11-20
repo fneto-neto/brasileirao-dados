@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "19/11/2026 20:36",
+ "atualizado_em": "19/11/2026 21:22",
  "fonte": "Opta (Stats Perform)",
  "rodada_atual": 35,
  "jogos_disputados": 347,
@@ -62,7 +62,7 @@
    "mandante": "Vitória",
    "visitante": "Bragantino",
    "situacao": "ao vivo",
-   "placar": "2 x 0"
+   "placar": "2 x 1"
   },
   {
    "data": "19/11/2026 19:30",
@@ -70,7 +70,7 @@
    "mandante": "Vasco",
    "visitante": "Internacional",
    "situacao": "ao vivo",
-   "placar": "1 x 0"
+   "placar": "2 x 1"
   }
  ],
  "proxima_rodada": {
@@ -82,7 +82,7 @@
     "mandante": "Vitória",
     "visitante": "Bragantino",
     "situacao": "ao vivo",
-    "placar": "2 x 0"
+    "placar": "2 x 1"
    },
    {
     "data": "19/11/2026 19:30",
@@ -90,7 +90,7 @@
     "mandante": "Vasco",
     "visitante": "Internacional",
     "situacao": "ao vivo",
-    "placar": "1 x 0"
+    "placar": "2 x 1"
    },
    {
     "data": "19/11/2026 21:30",
@@ -101,5 +101,5 @@
    }
   ]
  },
- "_impressao": "7aadd11559ae06d7"
+ "_impressao": "6b34fea6dc6f465e"
 }

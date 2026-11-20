@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "19/11/2026 20:36",
+ "atualizado_em": "19/11/2026 21:22",
  "fonte": "Opta (Stats Perform)",
  "posicao": 17,
  "time": "Internacional",
@@ -10,8 +10,8 @@
  "vitorias": 9,
  "empates": 11,
  "derrotas": 15,
- "gols_pro": 38,
- "gols_contra": 43,
+ "gols_pro": 39,
+ "gols_contra": 44,
  "saldo": -5,
  "aproveitamento": 36,
  "zona": "Rebaixamento",
@@ -22,7 +22,7 @@
    "mandante": "Vasco",
    "visitante": "Internacional",
    "situacao": "ao vivo",
-   "placar": "1 x 0",
+   "placar": "2 x 1",
    "mando": "fora",
    "adversario": "Vasco"
   },

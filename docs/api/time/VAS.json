@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "19/11/2026 20:36",
+ "atualizado_em": "19/11/2026 21:22",
  "fonte": "Opta (Stats Perform)",
  "posicao": 10,
  "time": "Vasco",
@@ -10,8 +10,8 @@
  "vitorias": 13,
  "empates": 8,
  "derrotas": 14,
- "gols_pro": 46,
- "gols_contra": 50,
+ "gols_pro": 47,
+ "gols_contra": 51,
  "saldo": -4,
  "aproveitamento": 45,
  "zona": "Sul-Americana",
@@ -22,7 +22,7 @@
    "mandante": "Vasco",
    "visitante": "Internacional",
    "situacao": "ao vivo",
-   "placar": "1 x 0",
+   "placar": "2 x 1",
    "mando": "casa",
    "adversario": "Internacional"
   },
@@ -121,16 +121,16 @@
    "gols": 5
   },
   {
+   "jogador": "F. Colidio",
+   "gols": 4
+  },
+  {
    "jogador": "David",
    "gols": 4
   },
   {
    "jogador": "Bruno Duarte",
    "gols": 4
-  },
-  {
-   "jogador": "Cauan Barros",
-   "gols": 3
   }
  ]
 }
