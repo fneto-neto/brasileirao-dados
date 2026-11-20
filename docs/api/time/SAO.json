@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "19/11/2026 22:36",
+ "atualizado_em": "19/11/2026 23:31",
  "fonte": "Opta (Stats Perform)",
  "posicao": 11,
  "time": "São Paulo",
@@ -16,16 +16,6 @@
  "aproveitamento": 42,
  "zona": "Sul-Americana",
  "proximos_jogos": [
-  {
-   "data": "19/11/2026 21:30",
-   "rodada": 35,
-   "mandante": "São Paulo",
-   "visitante": "Fluminense",
-   "situacao": "ao vivo",
-   "placar": "0 x 1",
-   "mando": "casa",
-   "adversario": "Fluminense"
-  },
   {
    "data": "23/11/2026 20:00",
    "rodada": 36,
@@ -55,6 +45,17 @@
   }
  ],
  "ultimos_jogos": [
+  {
+   "data": "19/11/2026 21:30",
+   "rodada": 35,
+   "mandante": "São Paulo",
+   "visitante": "Fluminense",
+   "situacao": "encerrado",
+   "placar": "0 x 1",
+   "mando": "casa",
+   "adversario": "Fluminense",
+   "resultado": "derrota"
+  },
   {
    "data": "04/11/2026 21:30",
    "rodada": 34,
@@ -97,17 +98,6 @@
    "placar": "1 x 0",
    "mando": "casa",
    "adversario": "Vasco",
-   "resultado": "vitória"
-  },
-  {
-   "data": "10/10/2026 21:00",
-   "rodada": 30,
-   "mandante": "São Paulo",
-   "visitante": "Vitória",
-   "situacao": "encerrado",
-   "placar": "2 x 1",
-   "mando": "casa",
-   "adversario": "Vitória",
    "resultado": "vitória"
   }
  ],
