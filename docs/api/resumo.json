@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "21/11/2026 17:15",
+ "atualizado_em": "21/11/2026 17:55",
  "fonte": "Opta (Stats Perform)",
  "rodada_atual": 35,
  "jogos_disputados": 350,
@@ -39,10 +39,10 @@
   "Palmeiras",
   "Cruzeiro",
   "Fluminense",
-  "Athletico PR"
+  "Bahia"
  ],
  "zona_sul_americana": [
-  "Bahia",
+  "Athletico PR",
   "Atlético MG",
   "Santos",
   "Bragantino",
@@ -63,6 +63,14 @@
    "visitante": "Flamengo",
    "situacao": "ao vivo",
    "placar": "1 x 0"
+  },
+  {
+   "data": "21/11/2026 17:30",
+   "rodada": 36,
+   "mandante": "Bahia",
+   "visitante": "Coritiba",
+   "situacao": "ao vivo",
+   "placar": "0 x 0"
   }
  ],
  "proxima_rodada": {
@@ -81,7 +89,8 @@
     "rodada": 36,
     "mandante": "Bahia",
     "visitante": "Coritiba",
-    "situacao": "a disputar"
+    "situacao": "ao vivo",
+    "placar": "0 x 0"
    },
    {
     "data": "21/11/2026 21:00",
@@ -141,5 +150,5 @@
    }
   ]
  },
- "_impressao": "4b35f069e59cfc5d"
+ "_impressao": "9f684f7678ede350"
 }
