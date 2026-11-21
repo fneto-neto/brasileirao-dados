@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "21/11/2026 19:10",
+ "atualizado_em": "21/11/2026 19:48",
  "fonte": "Opta (Stats Perform)",
  "artilheiros": [
   {
@@ -106,21 +106,21 @@
    "gols": 9
   },
   {
-   "posicao": 18,
+   "posicao": 15,
+   "jogador": "Breno Lopes",
+   "time": "Coritiba",
+   "gols": 9
+  },
+  {
+   "posicao": 19,
    "jogador": "J. Carrascal",
    "time": "Flamengo",
    "gols": 8
   },
   {
-   "posicao": 18,
+   "posicao": 19,
    "jogador": "Neymar",
    "time": "Santos",
-   "gols": 8
-  },
-  {
-   "posicao": 18,
-   "jogador": "Breno Lopes",
-   "time": "Coritiba",
    "gols": 8
   },
   {

@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "21/11/2026 19:10",
+ "atualizado_em": "21/11/2026 19:48",
  "fonte": "Opta (Stats Perform)",
  "posicao": 11,
  "time": "Coritiba",
@@ -16,16 +16,6 @@
  "aproveitamento": 42,
  "zona": "Sul-Americana",
  "proximos_jogos": [
-  {
-   "data": "21/11/2026 17:30",
-   "rodada": 36,
-   "mandante": "Bahia",
-   "visitante": "Coritiba",
-   "situacao": "ao vivo",
-   "placar": "0 x 1",
-   "mando": "fora",
-   "adversario": "Bahia"
-  },
   {
    "data": "29/11/2026 16:00",
    "rodada": 37,
@@ -46,6 +36,17 @@
   }
  ],
  "ultimos_jogos": [
+  {
+   "data": "21/11/2026 17:30",
+   "rodada": 36,
+   "mandante": "Bahia",
+   "visitante": "Coritiba",
+   "situacao": "encerrado",
+   "placar": "0 x 1",
+   "mando": "fora",
+   "adversario": "Bahia",
+   "resultado": "vitória"
+  },
   {
    "data": "18/11/2026 19:30",
    "rodada": 35,
@@ -89,17 +90,6 @@
    "mando": "casa",
    "adversario": "Grêmio",
    "resultado": "derrota"
-  },
-  {
-   "data": "17/10/2026 18:30",
-   "rodada": 31,
-   "mandante": "Atlético MG",
-   "visitante": "Coritiba",
-   "situacao": "encerrado",
-   "placar": "1 x 0",
-   "mando": "fora",
-   "adversario": "Atlético MG",
-   "resultado": "derrota"
   }
  ],
  "artilheiros_do_time": [
@@ -109,7 +99,7 @@
   },
   {
    "jogador": "Breno Lopes",
-   "gols": 8
+   "gols": 9
   },
   {
    "jogador": "J. Lavega",
