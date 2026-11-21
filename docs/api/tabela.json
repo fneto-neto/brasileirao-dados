@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "21/11/2026 18:28",
+ "atualizado_em": "21/11/2026 19:10",
  "fonte": "Opta (Stats Perform)",
  "rodada": 36,
  "times": [
@@ -66,21 +66,6 @@
   },
   {
    "posicao": 5,
-   "time": "Bahia",
-   "sigla": "BAH",
-   "pontos": 55,
-   "jogos": 36,
-   "vitorias": 14,
-   "empates": 13,
-   "derrotas": 9,
-   "gols_pro": 50,
-   "gols_contra": 45,
-   "saldo": 5,
-   "aproveitamento": 51,
-   "zona": "Pré-Libertadores"
-  },
-  {
-   "posicao": 6,
    "time": "Athletico PR",
    "sigla": "CAP",
    "pontos": 54,
@@ -92,6 +77,21 @@
    "gols_contra": 45,
    "saldo": 7,
    "aproveitamento": 51,
+   "zona": "Pré-Libertadores"
+  },
+  {
+   "posicao": 6,
+   "time": "Bahia",
+   "sigla": "BAH",
+   "pontos": 54,
+   "jogos": 36,
+   "vitorias": 14,
+   "empates": 12,
+   "derrotas": 10,
+   "gols_pro": 50,
+   "gols_contra": 46,
+   "saldo": 4,
+   "aproveitamento": 50,
    "zona": "Sul-Americana"
   },
   {
@@ -156,6 +156,21 @@
   },
   {
    "posicao": 11,
+   "time": "Coritiba",
+   "sigla": "CBA",
+   "pontos": 45,
+   "jogos": 36,
+   "vitorias": 12,
+   "empates": 9,
+   "derrotas": 15,
+   "gols_pro": 41,
+   "gols_contra": 52,
+   "saldo": -11,
+   "aproveitamento": 42,
+   "zona": "Sul-Americana"
+  },
+  {
+   "posicao": 12,
    "time": "São Paulo",
    "sigla": "SAO",
    "pontos": 44,
@@ -167,21 +182,6 @@
    "gols_contra": 40,
    "saldo": -1,
    "aproveitamento": 42,
-   "zona": "Sul-Americana"
-  },
-  {
-   "posicao": 12,
-   "time": "Coritiba",
-   "sigla": "CBA",
-   "pontos": 43,
-   "jogos": 36,
-   "vitorias": 11,
-   "empates": 10,
-   "derrotas": 15,
-   "gols_pro": 40,
-   "gols_contra": 52,
-   "saldo": -12,
-   "aproveitamento": 40,
    "zona": "Meio da tabela"
   },
   {
