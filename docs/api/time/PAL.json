@@ -1,19 +1,19 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "21/11/2026 16:31",
+ "atualizado_em": "21/11/2026 17:15",
  "fonte": "Opta (Stats Perform)",
  "posicao": 2,
  "time": "Palmeiras",
  "sigla": "PAL",
- "pontos": 74,
+ "pontos": 76,
  "jogos": 36,
- "vitorias": 21,
- "empates": 11,
+ "vitorias": 22,
+ "empates": 10,
  "derrotas": 4,
- "gols_pro": 63,
+ "gols_pro": 64,
  "gols_contra": 25,
- "saldo": 38,
- "aproveitamento": 69,
+ "saldo": 39,
+ "aproveitamento": 70,
  "zona": "Libertadores",
  "proximos_jogos": [
   {
@@ -22,7 +22,7 @@
    "mandante": "Palmeiras",
    "visitante": "Flamengo",
    "situacao": "ao vivo",
-   "placar": "0 x 0",
+   "placar": "1 x 0",
    "mando": "casa",
    "adversario": "Flamengo"
   },
@@ -113,7 +113,7 @@
   },
   {
    "jogador": "J. Arias",
-   "gols": 6
+   "gols": 7
   },
   {
    "jogador": "Vitor Roque",

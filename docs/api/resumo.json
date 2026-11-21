@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "21/11/2026 16:31",
+ "atualizado_em": "21/11/2026 17:15",
  "fonte": "Opta (Stats Perform)",
  "rodada_atual": 35,
  "jogos_disputados": 350,
@@ -10,15 +10,15 @@
   "posicao": 1,
   "time": "Flamengo",
   "sigla": "FLA",
-  "pontos": 80,
+  "pontos": 79,
   "jogos": 36,
   "vitorias": 24,
-  "empates": 8,
-  "derrotas": 4,
+  "empates": 7,
+  "derrotas": 5,
   "gols_pro": 73,
-  "gols_contra": 30,
-  "saldo": 43,
-  "aproveitamento": 74,
+  "gols_contra": 31,
+  "saldo": 42,
+  "aproveitamento": 73,
   "zona": "Libertadores"
  },
  "artilheiro": {
@@ -62,7 +62,7 @@
    "mandante": "Palmeiras",
    "visitante": "Flamengo",
    "situacao": "ao vivo",
-   "placar": "0 x 0"
+   "placar": "1 x 0"
   }
  ],
  "proxima_rodada": {
@@ -74,7 +74,7 @@
     "mandante": "Palmeiras",
     "visitante": "Flamengo",
     "situacao": "ao vivo",
-    "placar": "0 x 0"
+    "placar": "1 x 0"
    },
    {
     "data": "21/11/2026 17:30",
@@ -141,5 +141,5 @@
    }
   ]
  },
- "_impressao": "39604a21c90fe7fe"
+ "_impressao": "4b35f069e59cfc5d"
 }
