@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "22/11/2026 18:28",
+ "atualizado_em": "22/11/2026 19:14",
  "fonte": "Opta (Stats Perform)",
  "rodada": 36,
  "times": [
@@ -53,15 +53,15 @@
    "posicao": 4,
    "time": "Fluminense",
    "sigla": "FLU",
-   "pontos": 60,
-   "jogos": 35,
+   "pontos": 61,
+   "jogos": 36,
    "vitorias": 17,
-   "empates": 9,
+   "empates": 10,
    "derrotas": 9,
    "gols_pro": 56,
    "gols_contra": 42,
    "saldo": 14,
-   "aproveitamento": 57,
+   "aproveitamento": 56,
    "zona": "Libertadores"
   },
   {
@@ -201,6 +201,21 @@
   },
   {
    "posicao": 14,
+   "time": "Mirassol",
+   "sigla": "MIR",
+   "pontos": 42,
+   "jogos": 36,
+   "vitorias": 10,
+   "empates": 12,
+   "derrotas": 14,
+   "gols_pro": 39,
+   "gols_contra": 48,
+   "saldo": -9,
+   "aproveitamento": 39,
+   "zona": "Meio da tabela"
+  },
+  {
+   "posicao": 15,
    "time": "Vitória",
    "sigla": "VIT",
    "pontos": 41,
@@ -211,21 +226,6 @@
    "gols_pro": 37,
    "gols_contra": 52,
    "saldo": -15,
-   "aproveitamento": 39,
-   "zona": "Meio da tabela"
-  },
-  {
-   "posicao": 15,
-   "time": "Mirassol",
-   "sigla": "MIR",
-   "pontos": 41,
-   "jogos": 35,
-   "vitorias": 10,
-   "empates": 11,
-   "derrotas": 14,
-   "gols_pro": 39,
-   "gols_contra": 48,
-   "saldo": -9,
    "aproveitamento": 39,
    "zona": "Meio da tabela"
   },
