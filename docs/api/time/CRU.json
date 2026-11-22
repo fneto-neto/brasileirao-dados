@@ -1,31 +1,21 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "21/11/2026 21:54",
+ "atualizado_em": "21/11/2026 22:57",
  "fonte": "Opta (Stats Perform)",
  "posicao": 3,
  "time": "Cruzeiro",
  "sigla": "CRU",
- "pontos": 64,
+ "pontos": 66,
  "jogos": 36,
- "vitorias": 19,
- "empates": 7,
+ "vitorias": 20,
+ "empates": 6,
  "derrotas": 10,
- "gols_pro": 57,
- "gols_contra": 49,
- "saldo": 8,
- "aproveitamento": 59,
+ "gols_pro": 59,
+ "gols_contra": 50,
+ "saldo": 9,
+ "aproveitamento": 61,
  "zona": "Libertadores",
  "proximos_jogos": [
-  {
-   "data": "21/11/2026 21:00",
-   "rodada": 36,
-   "mandante": "Chapecoense",
-   "visitante": "Cruzeiro",
-   "situacao": "ao vivo",
-   "placar": "0 x 0",
-   "mando": "fora",
-   "adversario": "Chapecoense"
-  },
   {
    "data": "27/11/2026 20:00",
    "rodada": 37,
@@ -46,6 +36,17 @@
   }
  ],
  "ultimos_jogos": [
+  {
+   "data": "21/11/2026 21:00",
+   "rodada": 36,
+   "mandante": "Chapecoense",
+   "visitante": "Cruzeiro",
+   "situacao": "encerrado",
+   "placar": "1 x 2",
+   "mando": "fora",
+   "adversario": "Chapecoense",
+   "resultado": "vitória"
+  },
   {
    "data": "18/11/2026 20:30",
    "rodada": 35,
@@ -89,17 +90,6 @@
    "mando": "casa",
    "adversario": "Remo",
    "resultado": "vitória"
-  },
-  {
-   "data": "18/10/2026 16:00",
-   "rodada": 31,
-   "mandante": "Grêmio",
-   "visitante": "Cruzeiro",
-   "situacao": "encerrado",
-   "placar": "2 x 4",
-   "mando": "fora",
-   "adversario": "Grêmio",
-   "resultado": "vitória"
   }
  ],
  "artilheiros_do_time": [
@@ -109,7 +99,7 @@
   },
   {
    "jogador": "Matheus Pereira",
-   "gols": 10
+   "gols": 11
   },
   {
    "jogador": "Christian",

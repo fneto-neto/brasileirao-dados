@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "21/11/2026 21:54",
+ "atualizado_em": "21/11/2026 22:57",
  "fonte": "Opta (Stats Perform)",
  "rodada": 36,
  "times": [
@@ -38,15 +38,15 @@
    "posicao": 3,
    "time": "Cruzeiro",
    "sigla": "CRU",
-   "pontos": 64,
+   "pontos": 66,
    "jogos": 36,
-   "vitorias": 19,
-   "empates": 7,
+   "vitorias": 20,
+   "empates": 6,
    "derrotas": 10,
-   "gols_pro": 57,
-   "gols_contra": 49,
-   "saldo": 8,
-   "aproveitamento": 59,
+   "gols_pro": 59,
+   "gols_contra": 50,
+   "saldo": 9,
+   "aproveitamento": 61,
    "zona": "Libertadores"
   },
   {
@@ -293,15 +293,15 @@
    "posicao": 20,
    "time": "Chapecoense",
    "sigla": "CHA",
-   "pontos": 22,
+   "pontos": 21,
    "jogos": 36,
    "vitorias": 4,
-   "empates": 10,
-   "derrotas": 22,
-   "gols_pro": 33,
-   "gols_contra": 72,
-   "saldo": -39,
-   "aproveitamento": 20,
+   "empates": 9,
+   "derrotas": 23,
+   "gols_pro": 34,
+   "gols_contra": 74,
+   "saldo": -40,
+   "aproveitamento": 19,
    "zona": "Rebaixamento"
   }
  ]
