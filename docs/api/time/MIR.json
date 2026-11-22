@@ -1,31 +1,21 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "22/11/2026 19:57",
+ "atualizado_em": "22/11/2026 20:34",
  "fonte": "Opta (Stats Perform)",
- "posicao": 14,
+ "posicao": 15,
  "time": "Mirassol",
  "sigla": "MIR",
- "pontos": 42,
+ "pontos": 41,
  "jogos": 36,
  "vitorias": 10,
- "empates": 12,
- "derrotas": 14,
+ "empates": 11,
+ "derrotas": 15,
  "gols_pro": 39,
- "gols_contra": 48,
- "saldo": -9,
- "aproveitamento": 39,
+ "gols_contra": 49,
+ "saldo": -10,
+ "aproveitamento": 38,
  "zona": "Meio da tabela",
  "proximos_jogos": [
-  {
-   "data": "22/11/2026 18:30",
-   "rodada": 36,
-   "mandante": "Fluminense",
-   "visitante": "Mirassol",
-   "situacao": "ao vivo",
-   "placar": "0 x 0",
-   "mando": "fora",
-   "adversario": "Fluminense"
-  },
   {
    "data": "29/11/2026 18:30",
    "rodada": 37,
@@ -46,6 +36,17 @@
   }
  ],
  "ultimos_jogos": [
+  {
+   "data": "22/11/2026 18:30",
+   "rodada": 36,
+   "mandante": "Fluminense",
+   "visitante": "Mirassol",
+   "situacao": "encerrado",
+   "placar": "1 x 0",
+   "mando": "fora",
+   "adversario": "Fluminense",
+   "resultado": "derrota"
+  },
   {
    "data": "14/11/2026 18:30",
    "rodada": 35,
@@ -89,17 +90,6 @@
    "mando": "casa",
    "adversario": "São Paulo",
    "resultado": "empate"
-  },
-  {
-   "data": "16/10/2026 20:00",
-   "rodada": 31,
-   "mandante": "Mirassol",
-   "visitante": "Internacional",
-   "situacao": "encerrado",
-   "placar": "2 x 0",
-   "mando": "casa",
-   "adversario": "Internacional",
-   "resultado": "vitória"
   }
  ],
  "artilheiros_do_time": [

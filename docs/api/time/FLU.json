@@ -1,31 +1,21 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "22/11/2026 19:57",
+ "atualizado_em": "22/11/2026 20:34",
  "fonte": "Opta (Stats Perform)",
  "posicao": 4,
  "time": "Fluminense",
  "sigla": "FLU",
- "pontos": 61,
+ "pontos": 63,
  "jogos": 36,
- "vitorias": 17,
- "empates": 10,
+ "vitorias": 18,
+ "empates": 9,
  "derrotas": 9,
- "gols_pro": 56,
+ "gols_pro": 57,
  "gols_contra": 42,
- "saldo": 14,
- "aproveitamento": 56,
+ "saldo": 15,
+ "aproveitamento": 58,
  "zona": "Libertadores",
  "proximos_jogos": [
-  {
-   "data": "22/11/2026 18:30",
-   "rodada": 36,
-   "mandante": "Fluminense",
-   "visitante": "Mirassol",
-   "situacao": "ao vivo",
-   "placar": "0 x 0",
-   "mando": "casa",
-   "adversario": "Mirassol"
-  },
   {
    "data": "27/11/2026 20:00",
    "rodada": 37,
@@ -46,6 +36,17 @@
   }
  ],
  "ultimos_jogos": [
+  {
+   "data": "22/11/2026 18:30",
+   "rodada": 36,
+   "mandante": "Fluminense",
+   "visitante": "Mirassol",
+   "situacao": "encerrado",
+   "placar": "1 x 0",
+   "mando": "casa",
+   "adversario": "Mirassol",
+   "resultado": "vitória"
+  },
   {
    "data": "19/11/2026 21:30",
    "rodada": 35,
@@ -88,17 +89,6 @@
    "placar": "2 x 1",
    "mando": "fora",
    "adversario": "Chapecoense",
-   "resultado": "derrota"
-  },
-  {
-   "data": "18/10/2026 16:00",
-   "rodada": 31,
-   "mandante": "Fluminense",
-   "visitante": "Santos",
-   "situacao": "encerrado",
-   "placar": "1 x 2",
-   "mando": "casa",
-   "adversario": "Santos",
    "resultado": "derrota"
   }
  ],
