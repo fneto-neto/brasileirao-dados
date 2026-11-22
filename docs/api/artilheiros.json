@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "22/11/2026 17:49",
+ "atualizado_em": "22/11/2026 18:28",
  "fonte": "Opta (Stats Perform)",
  "artilheiros": [
   {
@@ -241,6 +241,12 @@
   },
   {
    "posicao": 5,
+   "jogador": "João Cruz",
+   "time": "Athletico PR",
+   "assistencias": 7
+  },
+  {
+   "posicao": 5,
    "jogador": "Giovanni Augusto",
    "time": "Chapecoense",
    "assistencias": 7
@@ -252,15 +258,9 @@
    "assistencias": 7
   },
   {
-   "posicao": 12,
+   "posicao": 13,
    "jogador": "Pedro",
    "time": "Flamengo",
-   "assistencias": 6
-  },
-  {
-   "posicao": 12,
-   "jogador": "João Cruz",
-   "time": "Athletico PR",
    "assistencias": 6
   },
   {
