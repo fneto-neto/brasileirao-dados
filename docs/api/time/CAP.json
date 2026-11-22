@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "22/11/2026 17:08",
+ "atualizado_em": "22/11/2026 17:49",
  "fonte": "Opta (Stats Perform)",
  "posicao": 5,
  "time": "Athletico PR",
@@ -10,9 +10,9 @@
  "vitorias": 16,
  "empates": 9,
  "derrotas": 11,
- "gols_pro": 54,
- "gols_contra": 45,
- "saldo": 9,
+ "gols_pro": 56,
+ "gols_contra": 46,
+ "saldo": 10,
  "aproveitamento": 53,
  "zona": "Pré-Libertadores",
  "proximos_jogos": [
@@ -22,7 +22,7 @@
    "mandante": "Athletico PR",
    "visitante": "Remo",
    "situacao": "ao vivo",
-   "placar": "2 x 0",
+   "placar": "4 x 1",
    "mando": "casa",
    "adversario": "Remo"
   },
@@ -113,7 +113,7 @@
   },
   {
    "jogador": "Leozinho",
-   "gols": 5
+   "gols": 6
   },
   {
    "jogador": "K. Vargas",
