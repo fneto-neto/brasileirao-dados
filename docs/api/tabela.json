@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "22/11/2026 16:22",
+ "atualizado_em": "22/11/2026 17:08",
  "fonte": "Opta (Stats Perform)",
  "rodada": 36,
  "times": [
@@ -73,9 +73,9 @@
    "vitorias": 16,
    "empates": 9,
    "derrotas": 11,
-   "gols_pro": 53,
+   "gols_pro": 54,
    "gols_contra": 45,
-   "saldo": 8,
+   "saldo": 9,
    "aproveitamento": 53,
    "zona": "Pré-Libertadores"
   },
@@ -284,8 +284,8 @@
    "empates": 11,
    "derrotas": 18,
    "gols_pro": 39,
-   "gols_contra": 58,
-   "saldo": -19,
+   "gols_contra": 59,
+   "saldo": -20,
    "aproveitamento": 30,
    "zona": "Rebaixamento"
   },
