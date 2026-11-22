@@ -1,19 +1,19 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "21/11/2026 22:57",
+ "atualizado_em": "22/11/2026 16:22",
  "fonte": "Opta (Stats Perform)",
  "posicao": 5,
  "time": "Athletico PR",
  "sigla": "CAP",
- "pontos": 54,
- "jogos": 35,
- "vitorias": 15,
+ "pontos": 57,
+ "jogos": 36,
+ "vitorias": 16,
  "empates": 9,
  "derrotas": 11,
- "gols_pro": 52,
+ "gols_pro": 53,
  "gols_contra": 45,
- "saldo": 7,
- "aproveitamento": 51,
+ "saldo": 8,
+ "aproveitamento": 53,
  "zona": "Pré-Libertadores",
  "proximos_jogos": [
   {
@@ -21,7 +21,8 @@
    "rodada": 36,
    "mandante": "Athletico PR",
    "visitante": "Remo",
-   "situacao": "a disputar",
+   "situacao": "ao vivo",
+   "placar": "1 x 0",
    "mando": "casa",
    "adversario": "Remo"
   },
@@ -108,7 +109,7 @@
   },
   {
    "jogador": "S. Mendoza",
-   "gols": 6
+   "gols": 7
   },
   {
    "jogador": "Leozinho",

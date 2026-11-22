@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "21/11/2026 22:57",
+ "atualizado_em": "22/11/2026 16:22",
  "fonte": "Opta (Stats Perform)",
  "artilheiros": [
   {
@@ -155,6 +155,12 @@
   },
   {
    "posicao": 21,
+   "jogador": "S. Mendoza",
+   "time": "Athletico PR",
+   "gols": 7
+  },
+  {
+   "posicao": 21,
    "jogador": "J. Savarino",
    "time": "Fluminense",
    "gols": 7
@@ -166,21 +172,15 @@
    "gols": 7
   },
   {
-   "posicao": 28,
+   "posicao": 29,
    "jogador": "L. Acosta",
    "time": "Fluminense",
    "gols": 6
   },
   {
-   "posicao": 28,
+   "posicao": 29,
    "jogador": "Kaio César",
    "time": "Corinthians",
-   "gols": 6
-  },
-  {
-   "posicao": 28,
-   "jogador": "A. Canobbio",
-   "time": "Fluminense",
    "gols": 6
   }
  ],

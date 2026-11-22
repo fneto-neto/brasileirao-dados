@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "21/11/2026 22:57",
+ "atualizado_em": "22/11/2026 16:22",
  "fonte": "Opta (Stats Perform)",
  "rodada_atual": 36,
  "jogos_disputados": 353,
@@ -55,7 +55,16 @@
   "Remo",
   "Chapecoense"
  ],
- "ao_vivo": [],
+ "ao_vivo": [
+  {
+   "data": "22/11/2026 16:00",
+   "rodada": 36,
+   "mandante": "Athletico PR",
+   "visitante": "Remo",
+   "situacao": "ao vivo",
+   "placar": "1 x 0"
+  }
+ ],
  "proxima_rodada": {
   "rodada": 36,
   "jogos": [
@@ -64,7 +73,8 @@
     "rodada": 36,
     "mandante": "Athletico PR",
     "visitante": "Remo",
-    "situacao": "a disputar"
+    "situacao": "ao vivo",
+    "placar": "1 x 0"
    },
    {
     "data": "22/11/2026 18:30",
@@ -110,5 +120,5 @@
    }
   ]
  },
- "_impressao": "ae6ca542586033a8"
+ "_impressao": "494f1f5c965ac287"
 }
