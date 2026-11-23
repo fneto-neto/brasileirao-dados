@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "22/11/2026 21:20",
+ "atualizado_em": "22/11/2026 22:42",
  "fonte": "Opta (Stats Perform)",
  "posicao": 8,
  "time": "Bragantino",
@@ -16,16 +16,6 @@
  "aproveitamento": 46,
  "zona": "Sul-Americana",
  "proximos_jogos": [
-  {
-   "data": "22/11/2026 19:30",
-   "rodada": 36,
-   "mandante": "Bragantino",
-   "visitante": "Vasco",
-   "situacao": "ao vivo",
-   "placar": "1 x 0",
-   "mando": "casa",
-   "adversario": "Vasco"
-  },
   {
    "data": "29/11/2026 18:30",
    "rodada": 37,
@@ -46,6 +36,17 @@
   }
  ],
  "ultimos_jogos": [
+  {
+   "data": "22/11/2026 19:30",
+   "rodada": 36,
+   "mandante": "Bragantino",
+   "visitante": "Vasco",
+   "situacao": "encerrado",
+   "placar": "1 x 0",
+   "mando": "casa",
+   "adversario": "Vasco",
+   "resultado": "vitória"
+  },
   {
    "data": "19/11/2026 19:30",
    "rodada": 35,
@@ -89,17 +90,6 @@
    "mando": "fora",
    "adversario": "Palmeiras",
    "resultado": "derrota"
-  },
-  {
-   "data": "18/10/2026 19:30",
-   "rodada": 31,
-   "mandante": "Remo",
-   "visitante": "Bragantino",
-   "situacao": "encerrado",
-   "placar": "1 x 1",
-   "mando": "fora",
-   "adversario": "Remo",
-   "resultado": "empate"
   }
  ],
  "artilheiros_do_time": [
