@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "23/11/2026 20:08",
+ "atualizado_em": "23/11/2026 20:55",
  "fonte": "Opta (Stats Perform)",
  "rodada": 36,
  "times": [
@@ -141,6 +141,21 @@
   },
   {
    "posicao": 10,
+   "time": "São Paulo",
+   "sigla": "SAO",
+   "pontos": 47,
+   "jogos": 36,
+   "vitorias": 13,
+   "empates": 8,
+   "derrotas": 15,
+   "gols_pro": 40,
+   "gols_contra": 40,
+   "saldo": 0,
+   "aproveitamento": 44,
+   "zona": "Sul-Americana"
+  },
+  {
+   "posicao": 11,
    "time": "Vasco",
    "sigla": "VAS",
    "pontos": 47,
@@ -152,21 +167,6 @@
    "gols_contra": 52,
    "saldo": -5,
    "aproveitamento": 44,
-   "zona": "Sul-Americana"
-  },
-  {
-   "posicao": 11,
-   "time": "São Paulo",
-   "sigla": "SAO",
-   "pontos": 45,
-   "jogos": 36,
-   "vitorias": 12,
-   "empates": 9,
-   "derrotas": 15,
-   "gols_pro": 39,
-   "gols_contra": 40,
-   "saldo": -1,
-   "aproveitamento": 42,
    "zona": "Sul-Americana"
   },
   {
@@ -193,8 +193,8 @@
    "vitorias": 12,
    "empates": 8,
    "derrotas": 16,
-   "gols_pro": 39,
-   "gols_contra": 52,
+   "gols_pro": 40,
+   "gols_contra": 53,
    "saldo": -13,
    "aproveitamento": 41,
    "zona": "Meio da tabela"
@@ -203,15 +203,15 @@
    "posicao": 14,
    "time": "Botafogo",
    "sigla": "BOT",
-   "pontos": 43,
+   "pontos": 42,
    "jogos": 36,
    "vitorias": 11,
-   "empates": 10,
-   "derrotas": 15,
+   "empates": 9,
+   "derrotas": 16,
    "gols_pro": 46,
-   "gols_contra": 57,
-   "saldo": -11,
-   "aproveitamento": 40,
+   "gols_contra": 58,
+   "saldo": -12,
+   "aproveitamento": 39,
    "zona": "Meio da tabela"
   },
   {
@@ -253,8 +253,8 @@
    "vitorias": 9,
    "empates": 11,
    "derrotas": 16,
-   "gols_pro": 39,
-   "gols_contra": 46,
+   "gols_pro": 40,
+   "gols_contra": 47,
    "saldo": -7,
    "aproveitamento": 35,
    "zona": "Rebaixamento"

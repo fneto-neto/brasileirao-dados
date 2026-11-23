@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "23/11/2026 20:08",
+ "atualizado_em": "23/11/2026 20:55",
  "fonte": "Opta (Stats Perform)",
  "rodada_atual": 36,
  "jogos_disputados": 356,
@@ -46,8 +46,8 @@
   "Atlético MG",
   "Bragantino",
   "Santos",
-  "Vasco",
-  "São Paulo"
+  "São Paulo",
+  "Vasco"
  ],
  "zona_rebaixamento": [
   "Internacional",
@@ -62,7 +62,7 @@
    "mandante": "Internacional",
    "visitante": "Vitória",
    "situacao": "ao vivo",
-   "placar": "0 x 2"
+   "placar": "1 x 3"
   },
   {
    "data": "23/11/2026 20:00",
@@ -70,7 +70,7 @@
    "mandante": "Botafogo",
    "visitante": "São Paulo",
    "situacao": "ao vivo",
-   "placar": "0 x 0"
+   "placar": "0 x 1"
   }
  ],
  "proxima_rodada": {
@@ -82,7 +82,7 @@
     "mandante": "Internacional",
     "visitante": "Vitória",
     "situacao": "ao vivo",
-    "placar": "0 x 2"
+    "placar": "1 x 3"
    },
    {
     "data": "23/11/2026 20:00",
@@ -90,7 +90,7 @@
     "mandante": "Botafogo",
     "visitante": "São Paulo",
     "situacao": "ao vivo",
-    "placar": "0 x 0"
+    "placar": "0 x 1"
    },
    {
     "data": "23/11/2026 21:00",
@@ -108,5 +108,5 @@
    }
   ]
  },
- "_impressao": "247a98fd86a644fd"
+ "_impressao": "7d17e2fe6424b57d"
 }
