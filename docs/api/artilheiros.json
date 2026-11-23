@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "22/11/2026 22:42",
+ "atualizado_em": "23/11/2026 20:08",
  "fonte": "Opta (Stats Perform)",
  "artilheiros": [
   {
@@ -35,26 +35,26 @@
   },
   {
    "posicao": 6,
+   "jogador": "Renê",
+   "time": "Vitória",
+   "gols": 12
+  },
+  {
+   "posicao": 7,
    "jogador": "Carlos Vinícius",
    "time": "Grêmio",
    "gols": 11
   },
   {
-   "posicao": 6,
+   "posicao": 7,
    "jogador": "Luciano Juba",
    "time": "Bahia",
    "gols": 11
   },
   {
-   "posicao": 6,
+   "posicao": 7,
    "jogador": "Matheus Pereira",
    "time": "Cruzeiro",
-   "gols": 11
-  },
-  {
-   "posicao": 6,
-   "jogador": "Renê",
-   "time": "Vitória",
    "gols": 11
   },
   {
