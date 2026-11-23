@@ -1,19 +1,19 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "22/11/2026 20:34",
+ "atualizado_em": "22/11/2026 21:20",
  "fonte": "Opta (Stats Perform)",
- "posicao": 9,
+ "posicao": 8,
  "time": "Bragantino",
  "sigla": "RBB",
- "pontos": 48,
+ "pontos": 50,
  "jogos": 36,
- "vitorias": 13,
- "empates": 9,
+ "vitorias": 14,
+ "empates": 8,
  "derrotas": 14,
- "gols_pro": 45,
+ "gols_pro": 46,
  "gols_contra": 41,
- "saldo": 4,
- "aproveitamento": 44,
+ "saldo": 5,
+ "aproveitamento": 46,
  "zona": "Sul-Americana",
  "proximos_jogos": [
   {
@@ -22,7 +22,7 @@
    "mandante": "Bragantino",
    "visitante": "Vasco",
    "situacao": "ao vivo",
-   "placar": "0 x 0",
+   "placar": "1 x 0",
    "mando": "casa",
    "adversario": "Vasco"
   },
@@ -112,15 +112,15 @@
    "gols": 5
   },
   {
+   "jogador": "Eduardo Sasha",
+   "gols": 3
+  },
+  {
    "jogador": "Juninho Capixaba",
    "gols": 3
   },
   {
    "jogador": "Wallace Yan",
-   "gols": 3
-  },
-  {
-   "jogador": "Fernando",
    "gols": 3
   }
  ]
