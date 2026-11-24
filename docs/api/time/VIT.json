@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "23/11/2026 20:55",
+ "atualizado_em": "23/11/2026 21:46",
  "fonte": "Opta (Stats Perform)",
  "posicao": 13,
  "time": "Vitória",
@@ -10,22 +10,12 @@
  "vitorias": 12,
  "empates": 8,
  "derrotas": 16,
- "gols_pro": 40,
- "gols_contra": 53,
- "saldo": -13,
+ "gols_pro": 42,
+ "gols_contra": 54,
+ "saldo": -12,
  "aproveitamento": 41,
  "zona": "Meio da tabela",
  "proximos_jogos": [
-  {
-   "data": "23/11/2026 19:30",
-   "rodada": 36,
-   "mandante": "Internacional",
-   "visitante": "Vitória",
-   "situacao": "ao vivo",
-   "placar": "1 x 3",
-   "mando": "fora",
-   "adversario": "Internacional"
-  },
   {
    "data": "29/11/2026 16:00",
    "rodada": 37,
@@ -46,6 +36,17 @@
   }
  ],
  "ultimos_jogos": [
+  {
+   "data": "23/11/2026 19:30",
+   "rodada": 36,
+   "mandante": "Internacional",
+   "visitante": "Vitória",
+   "situacao": "encerrado",
+   "placar": "2 x 5",
+   "mando": "fora",
+   "adversario": "Internacional",
+   "resultado": "vitória"
+  },
   {
    "data": "19/11/2026 19:30",
    "rodada": 35,
@@ -89,17 +90,6 @@
    "mando": "casa",
    "adversario": "Athletico PR",
    "resultado": "empate"
-  },
-  {
-   "data": "19/10/2026 20:00",
-   "rodada": 31,
-   "mandante": "Corinthians",
-   "visitante": "Vitória",
-   "situacao": "encerrado",
-   "placar": "1 x 1",
-   "mando": "fora",
-   "adversario": "Corinthians",
-   "resultado": "empate"
   }
  ],
  "artilheiros_do_time": [
@@ -108,11 +98,11 @@
    "gols": 12
   },
   {
-   "jogador": "Erick",
-   "gols": 5
+   "jogador": "Renato Kayzer",
+   "gols": 6
   },
   {
-   "jogador": "Renato Kayzer",
+   "jogador": "Erick",
    "gols": 5
   },
   {
@@ -120,7 +110,7 @@
    "gols": 5
   },
   {
-   "jogador": "D. Tarzia",
+   "jogador": "Gabriel Baralhas",
    "gols": 3
   }
  ]
