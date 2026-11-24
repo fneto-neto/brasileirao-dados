@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "24/11/2026 18:07",
+ "atualizado_em": "24/11/2026 19:01",
  "fonte": "Opta (Stats Perform)",
  "rodada_atual": 36,
  "jogos_disputados": 359,
@@ -32,7 +32,7 @@
  },
  "melhor_defesa": {
   "time": "Palmeiras",
-  "gols_contra": 27
+  "gols_contra": 28
  },
  "zona_libertadores": [
   "Flamengo",
@@ -62,7 +62,7 @@
    "mandante": "Chapecoense",
    "visitante": "Palmeiras",
    "situacao": "ao vivo",
-   "placar": "1 x 0"
+   "placar": "2 x 0"
   }
  ],
  "proxima_rodada": {
@@ -77,5 +77,5 @@
    }
   ]
  },
- "_impressao": "0354710b424eb319"
+ "_impressao": "b56f29f7b0cd54ec"
 }

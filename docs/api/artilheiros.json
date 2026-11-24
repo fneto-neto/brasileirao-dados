@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "24/11/2026 18:07",
+ "atualizado_em": "24/11/2026 19:01",
  "fonte": "Opta (Stats Perform)",
  "artilheiros": [
   {
@@ -211,48 +211,48 @@
   },
   {
    "posicao": 5,
+   "jogador": "Giovanni Augusto",
+   "time": "Chapecoense",
+   "assistencias": 8
+  },
+  {
+   "posicao": 6,
    "jogador": "K. Arroyo",
    "time": "Cruzeiro",
    "assistencias": 7
   },
   {
-   "posicao": 5,
+   "posicao": 6,
    "jogador": "Matheus Pereira",
    "time": "Cruzeiro",
    "assistencias": 7
   },
   {
-   "posicao": 5,
+   "posicao": 6,
    "jogador": "Erick",
    "time": "Vitória",
    "assistencias": 7
   },
   {
-   "posicao": 5,
+   "posicao": 6,
    "jogador": "R. Garro",
    "time": "Corinthians",
    "assistencias": 7
   },
   {
-   "posicao": 5,
+   "posicao": 6,
    "jogador": "J. López",
    "time": "Palmeiras",
    "assistencias": 7
   },
   {
-   "posicao": 5,
+   "posicao": 6,
    "jogador": "João Cruz",
    "time": "Athletico PR",
    "assistencias": 7
   },
   {
-   "posicao": 5,
-   "jogador": "Giovanni Augusto",
-   "time": "Chapecoense",
-   "assistencias": 7
-  },
-  {
-   "posicao": 5,
+   "posicao": 6,
    "jogador": "G. Varela",
    "time": "Flamengo",
    "assistencias": 7
