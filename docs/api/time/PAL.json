@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "24/11/2026 19:01",
+ "atualizado_em": "24/11/2026 19:57",
  "fonte": "Opta (Stats Perform)",
  "posicao": 2,
  "time": "Palmeiras",
@@ -11,21 +11,11 @@
  "empates": 11,
  "derrotas": 5,
  "gols_pro": 64,
- "gols_contra": 28,
- "saldo": 36,
+ "gols_contra": 29,
+ "saldo": 35,
  "aproveitamento": 67,
  "zona": "Libertadores",
  "proximos_jogos": [
-  {
-   "data": "24/11/2026 18:00",
-   "rodada": 37,
-   "mandante": "Chapecoense",
-   "visitante": "Palmeiras",
-   "situacao": "ao vivo",
-   "placar": "2 x 0",
-   "mando": "fora",
-   "adversario": "Chapecoense"
-  },
   {
    "data": "02/12/2026 21:30",
    "rodada": 38,
@@ -37,6 +27,17 @@
   }
  ],
  "ultimos_jogos": [
+  {
+   "data": "24/11/2026 18:00",
+   "rodada": 37,
+   "mandante": "Chapecoense",
+   "visitante": "Palmeiras",
+   "situacao": "encerrado",
+   "placar": "3 x 0",
+   "mando": "fora",
+   "adversario": "Chapecoense",
+   "resultado": "derrota"
+  },
   {
    "data": "21/11/2026 16:30",
    "rodada": 36,
@@ -80,17 +81,6 @@
    "mando": "fora",
    "adversario": "Santos",
    "resultado": "empate"
-  },
-  {
-   "data": "24/10/2026 18:30",
-   "rodada": 32,
-   "mandante": "Palmeiras",
-   "visitante": "Bragantino",
-   "situacao": "encerrado",
-   "placar": "2 x 0",
-   "mando": "casa",
-   "adversario": "Bragantino",
-   "resultado": "vitória"
   }
  ],
  "artilheiros_do_time": [
