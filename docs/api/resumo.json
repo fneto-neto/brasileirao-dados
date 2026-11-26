@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "25/11/2026 20:12",
+ "atualizado_em": "25/11/2026 21:56",
  "fonte": "Opta (Stats Perform)",
  "rodada_atual": 37,
  "jogos_disputados": 360,
@@ -62,7 +62,7 @@
    "mandante": "Atlético MG",
    "visitante": "Corinthians",
    "situacao": "ao vivo",
-   "placar": "0 x 0"
+   "placar": "0 x 1"
   }
  ],
  "proxima_rodada": {
@@ -74,9 +74,9 @@
     "mandante": "Atlético MG",
     "visitante": "Corinthians",
     "situacao": "ao vivo",
-    "placar": "0 x 0"
+    "placar": "0 x 1"
    }
   ]
  },
- "_impressao": "0d1f55afcbb59057"
+ "_impressao": "c1170a221cf1b842"
 }
