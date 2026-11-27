@@ -1,11 +1,11 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "26/11/2026 21:17",
+ "atualizado_em": "26/11/2026 22:42",
  "fonte": "Opta (Stats Perform)",
  "rodada_atual": 37,
- "jogos_disputados": 361,
- "gols": 958,
- "media_gols_por_jogo": 2.65,
+ "jogos_disputados": 362,
+ "gols": 962,
+ "media_gols_por_jogo": 2.66,
  "lider": {
   "posicao": 1,
   "time": "Flamengo",
@@ -55,27 +55,10 @@
   "Remo",
   "Chapecoense"
  ],
- "ao_vivo": [
-  {
-   "data": "26/11/2026 20:00",
-   "rodada": 37,
-   "mandante": "São Paulo",
-   "visitante": "Remo",
-   "situacao": "ao vivo",
-   "placar": "1 x 0"
-  }
- ],
+ "ao_vivo": [],
  "proxima_rodada": {
   "rodada": 37,
   "jogos": [
-   {
-    "data": "26/11/2026 20:00",
-    "rodada": 37,
-    "mandante": "São Paulo",
-    "visitante": "Remo",
-    "situacao": "ao vivo",
-    "placar": "1 x 0"
-   },
    {
     "data": "27/11/2026 20:00",
     "rodada": 37,
@@ -134,5 +117,5 @@
    }
   ]
  },
- "_impressao": "8dc9b1b6796b2937"
+ "_impressao": "c01968b4cf0eb203"
 }

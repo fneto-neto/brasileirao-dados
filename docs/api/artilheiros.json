@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "26/11/2026 21:17",
+ "atualizado_em": "26/11/2026 22:42",
  "fonte": "Opta (Stats Perform)",
  "artilheiros": [
   {
@@ -35,30 +35,30 @@
   },
   {
    "posicao": 6,
+   "jogador": "J. Calleri",
+   "time": "São Paulo",
+   "gols": 12
+  },
+  {
+   "posicao": 6,
    "jogador": "Renê",
    "time": "Vitória",
    "gols": 12
   },
   {
-   "posicao": 7,
+   "posicao": 8,
    "jogador": "Carlos Vinícius",
    "time": "Grêmio",
    "gols": 11
   },
   {
-   "posicao": 7,
+   "posicao": 8,
    "jogador": "Luciano Juba",
    "time": "Bahia",
    "gols": 11
   },
   {
-   "posicao": 7,
-   "jogador": "J. Calleri",
-   "time": "São Paulo",
-   "gols": 11
-  },
-  {
-   "posicao": 7,
+   "posicao": 8,
    "jogador": "Matheus Pereira",
    "time": "Cruzeiro",
    "gols": 11
@@ -343,6 +343,12 @@
   },
   {
    "posicao": 24,
+   "jogador": "D. Bobadilla",
+   "time": "São Paulo",
+   "assistencias": 4
+  },
+  {
+   "posicao": 24,
    "jogador": "A. Canobbio",
    "time": "Fluminense",
    "assistencias": 4
@@ -357,12 +363,6 @@
    "posicao": 24,
    "jogador": "Vitinho",
    "time": "Corinthians",
-   "assistencias": 4
-  },
-  {
-   "posicao": 24,
-   "jogador": "Fágner",
-   "time": "Cruzeiro",
    "assistencias": 4
   }
  ]
