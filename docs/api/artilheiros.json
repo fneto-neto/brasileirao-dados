@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "26/11/2026 20:21",
+ "atualizado_em": "26/11/2026 21:17",
  "fonte": "Opta (Stats Perform)",
  "artilheiros": [
   {
@@ -53,36 +53,36 @@
   },
   {
    "posicao": 7,
+   "jogador": "J. Calleri",
+   "time": "São Paulo",
+   "gols": 11
+  },
+  {
+   "posicao": 7,
    "jogador": "Matheus Pereira",
    "time": "Cruzeiro",
    "gols": 11
   },
   {
-   "posicao": 10,
-   "jogador": "J. Calleri",
-   "time": "São Paulo",
-   "gols": 10
-  },
-  {
-   "posicao": 10,
+   "posicao": 11,
    "jogador": "Danilo Santos",
    "time": "Botafogo",
    "gols": 10
   },
   {
-   "posicao": 10,
+   "posicao": 11,
    "jogador": "J. López",
    "time": "Palmeiras",
    "gols": 10
   },
   {
-   "posicao": 10,
+   "posicao": 11,
    "jogador": "Mauricio",
    "time": "Palmeiras",
    "gols": 10
   },
   {
-   "posicao": 10,
+   "posicao": 11,
    "jogador": "Jája Silva",
    "time": "Remo",
    "gols": 10
