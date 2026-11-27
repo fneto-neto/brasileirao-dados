@@ -1,6 +1,6 @@
 {
  "campeonato": "Brasileirão Série A 2026",
- "atualizado_em": "26/11/2026 22:42",
+ "atualizado_em": "27/11/2026 20:07",
  "fonte": "Opta (Stats Perform)",
  "rodada_atual": 37,
  "jogos_disputados": 362,
@@ -55,7 +55,16 @@
   "Remo",
   "Chapecoense"
  ],
- "ao_vivo": [],
+ "ao_vivo": [
+  {
+   "data": "27/11/2026 20:00",
+   "rodada": 37,
+   "mandante": "Fluminense",
+   "visitante": "Cruzeiro",
+   "situacao": "ao vivo",
+   "placar": "0 x 1"
+  }
+ ],
  "proxima_rodada": {
   "rodada": 37,
   "jogos": [
@@ -64,7 +73,8 @@
     "rodada": 37,
     "mandante": "Fluminense",
     "visitante": "Cruzeiro",
-    "situacao": "a disputar"
+    "situacao": "ao vivo",
+    "placar": "0 x 1"
    },
    {
     "data": "28/11/2026 21:00",
@@ -117,5 +127,5 @@
    }
   ]
  },
- "_impressao": "c01968b4cf0eb203"
+ "_impressao": "32b725bc8dd088b9"
 }
